@@ -1,0 +1,158 @@
+############# german navigation ##############
+
+# main menu
+[[main]]
+name = "Über uns"
+url = "/de/about/"
+weight = 2
+
+# [[main]]
+# name = "How-To"
+# url = "/de/how-it-works/"
+# weight = 3
+
+[[main]]
+name = "EasyServices"
+url = "/de/services/"
+weight = 4
+hasChildren = true
+
+  [[main]]
+  weight = 1
+  parent = "EasyServices"
+  name = "Übersicht"
+  url = "/de/services/"
+
+  [[main]]
+  weight = 2
+  parent = "EasyServices"
+  name = "EasyFAAS"
+  url = "/de/services/easyfaas/"
+
+  [[main]]
+  weight = 3
+  parent = "EasyServices"
+  name = "EasyKube"
+  url = "/de/services/easykube/"
+
+  [[main]]
+  weight = 4
+  parent = "EasyServices"
+  name = "EasyHost"
+  url = "/de/services/easyhost/"
+
+  [[main]]
+  weight = 5
+  parent = "EasyServices"
+  name = "EasyDB"
+  url = "/de/services/easydb/"
+
+  [[main]]
+  weight = 6
+  parent = "EasyServices"
+  name = "EasyStore"
+  url = "/de/services/easystore/"
+
+  [[main]]
+  weight = 7
+  parent = "EasyServices"
+  name = "EasySEO"
+  url = "/de/services/easyseo/"
+
+  [[main]]
+  weight = 8
+  parent = "EasyServices"
+  name = "EasyHealth"
+  url = "/de/services/easyhealth/"
+
+  [[main]]
+  weight = 9
+  parent = "EasyServices"
+  name = "EasyScale"
+  url = "/de/services/easyscale/"
+
+  [[main]]
+  weight = 10
+  parent = "EasyServices"
+  name = "EasyModel"
+  url = "/de/services/easymodel/"
+
+  [[main]]
+  weight = 11
+  parent = "EasyServices"
+  name = "Webseiten"
+  url = "/de/easyservices/websites/"
+
+[[main]]
+weight = 5
+name = "Support"
+url = "/de/support/"
+
+[[main]]
+weight = 6
+name = "Seiten"
+hasChildren = true
+
+  [[main]]
+  weight = 1
+  parent = "Seiten"
+  name = "Blog"
+  url = "/de/blog/"
+
+  [[main]]
+  weight = 1
+  parent = "Seiten"
+  name = "Preise"
+  url = "/de/pricing/"
+
+  [[main]]
+  weight = 2
+  parent = "Seiten"
+  name = "Testimonials"
+  url = "/de/testimonials/"
+
+  [[main]]
+  weight = 2
+  parent = "Seiten"
+  name = "Meine Subscriptions"
+  url = "/de/subscription-management/"
+
+  
+[[main]]
+name = "Kontakt"
+url = "/de/contact/"
+weight = 7
+
+
+# footer menus
+[[about]]
+name = "Unsere Story"
+url = "/de/about"
+weight = 1
+
+[[about]]
+name = "Testimonials"
+url = "/de/testimonials"
+weight = 2
+
+[[about]]
+name = "How-To"
+url = "/de/how-it-works"
+weight = 3
+
+
+
+[[help]]
+name = "Pricing"
+url = "/de/pricing"
+weight = 1
+
+[[help]]
+name = "Blog"
+url = "/de/blog"
+weight = 2
+
+[[help]]
+name = "Contact"
+url = "/de/contact"
+weight = 4

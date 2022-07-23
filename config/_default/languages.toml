@@ -1,0 +1,19 @@
+################################### English language #####################################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+# copyright
+copyright = "Copyright By [DataFortress.cloud](https://datafortress.cloud/)"
+
+
+################################### French language #####################################
+[de]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/german"
+weight = 2
+home = "Home"
+# copyright
+copyright = "Copyright By [DataFortress.cloud](https://datafortress.cloud/)"

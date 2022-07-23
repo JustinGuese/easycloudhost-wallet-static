@@ -1,0 +1,40 @@
+######################## default configuration ####################
+baseURL = "https://easycloudhost.de"
+title = "EasyCloudHost - Simple, Secure and Scalable cloud services"
+theme = "wallet"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "10"
+# google analytics
+googleAnalytics = "UA-56269619-23" # example : UA-123-45
+# disqus short name
+disqusShortname = "datafortress.cloud" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = [] # desable language from here
+
+# Image Processing Config
+[imaging]
+quality = 100
+
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+
+[markup]
+[markup.goldmark.renderer]
+unsafe= true
+
+[mediaTypes]
+[mediaTypes."application/manifest+json"]
+suffixes = ["webmanifest"]
+
+[mediaTypes."text/netlify"]
+delimiter = ""
+suffixes = [""]
+
+[outputFormats]
+[outputFormats.WebAppManifest]
+mediaType = "application/manifest+json"
+rel = "manifest"

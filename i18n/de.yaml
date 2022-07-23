@@ -1,0 +1,161 @@
+- id: read_more
+  translation: Read More
+  
+- id: address
+  translation: Our Address
+
+- id: phone
+  translation: Phone Number
+
+- id: email
+  translation: Message Us
+
+- id: contact_form
+  translation: Contact Form
+
+- id: send
+  translation: Send Message
+
+- id: follow
+  translation: FOLLOW US ON
+
+- id: services
+  translation: Services
+
+- id: contact_info
+  translation: Contact Info
+
+- id: subscribe_newsletter
+  translation: Subscribe Newsletter
+
+- id: subscribe
+  translation: Subscribe
+
+- id: connect_with_us
+  translation: Connect With Us
+
+- id: call_now
+  translation: Call Now
+
+- id: search_placeholder
+  translation: Type & Hit Enter...
+
+- id: latest_article
+  translation: Latest Article
+
+- id: category
+  translation: Category
+
+- id: tags
+  translation: Tags
+
+- id: view_details
+  translation: View Details
+
+- id: know_about_us
+  translation: SSobre Nosotras
+
+- id: all_services
+  translation: Todos Los Servicios
+
+- id: social
+  translation: Vínculos Sociales
+
+- id: leave_message
+  translation: Déjanos Un Mensaje
+
+- id: full_name
+  translation: Full Name
+
+- id: email_address
+  translation: Email address
+
+- id: write_message
+  translation: Write Message
+
+- id: how_much_need
+  translation: ¿Cuánto necesitas?
+
+- id: amount
+  translation: Monto
+
+- id: how_long_for
+  translation: ¿Cuánto tiempo para?
+
+- id: repayment
+  translation: Reembolso
+
+- id: get_your_loan_now
+  translation: Obtenga su préstamo ahora
+
+- id: service
+  translation: Servicio
+
+- id: about
+  translation: Acerca de
+
+- id: help
+  translation: Ayudar
+
+- id: subscribe
+  translation: Suscribir
+
+
+# other shit
+# other services
+- id: os_notwhat
+  translation: Nicht genau das, wonach Sie gesucht haben?
+
+- id: os_otherservices
+  translation: "Informieren Sie sich über unsere anderen Dienstleistungen:"
+
+- id: storage
+  translation: Speicher
+- id: storage_block
+  translation: '<p>Wir bieten eine große Auswahl an Speicherlösungen:</p>
+    <li>Möchten Sie etwas wie <strong>Dropbox/Google Drive/OneDrive</strong>? Werfen Sie einen Blick auf <a href="/de/easyservices/easystore/" target="_blank">"EasyStore Drive"</a>. </li>
+    <li>Sie sind eher auf der Suche nach einem <strong>S3 kompatiblen Objektspeicher</strong>? Werfen Sie einen Blick auf <a href="/de/easyservices/easystore/" target="_blank">"EasyStore S3"</a>.</li>
+    <li>Suchen Sie nach einer Möglichkeit, Ihre eigenen datengesteuerten Anwendungen zu hosten? Unser verwaltetes Kubernetes <a href="/de/easyservices/easykube/" target="_blank">"EasyKube"</a> oder Hosting generell <a href="/de/easyservices/easyhost/" target="_blank">"EasyHost"</a> könnte etwas für Sie sein.</li>
+    <br>
+    Suchen Sie nach etwas anderem? <a href="/contact" target="_blank">Buchen Sie ein gratis 15-minütiges Gespräch</a> um mehr zu erfahren.'
+
+
+- id: computing
+  translation: Computing
+- id: computing_block
+  translation: '<p>Wir bieten eine große Auswahl an Hosting-Lösungen:</p>
+        <li><strong><a href="/de/easyservices/easyfaas/" target="_blank">"EasyFAAS"</a></strong> ermöglicht es Ihnen, Ihren Code "einfach auszuführen", ohne sich um Server, Infrastruktur und alles andere kümmern zu müssen. Es handelt sich um eine FAAS-Lösung (Function-as-a-Service) und damit um die höchste Infrastrukturabstraktion, die Sie bekommen können. </li>
+        <li>Unser verwaltetes Kubernetes <strong><a href="/de/easyservices/easykube/" target="_blank">"EasyKube"</a></strong> hilft Ihnen, Kubernetes in Sekundenschnelle in Betrieb zu nehmen, mit Domain-basiertem Routing und Persistenz als Standard.</li>
+        <li>Sind Sie auf der Suche nach einem individuellen Hosting-Angebot? <strong><a href="/de/easyservices/easyhost/" target="_blank">"EasyHost"</a></strong> könnte etwas für Sie sein.</li>
+        <br>
+        Suchen Sie nach etwas anderem? <a href="/contact" target="_blank">Buchen Sie ein gratis 15-minütiges Gespräch</a> um mehr zu erfahren.'
+
+- id: websites
+  translation: Webseiten
+- id: websites_block
+  translation: '<li>Suchen Sie nach einer Möglichkeit, Ihre Websites <strong>einfach und gesetzeskonform</strong> zu hosten? <a href="/de/easyservices/easyhost/" target="_blank">"EasyHost"</a> könnte etwas für Sie sein.</li>
+        <li>Sie möchten eine Website erstellen oder anpassen, damit sie schneller ist und mehr konvertiert? Unsere statischen <a href="/de/easyservices/websites/" target="_blank">"Websites"</a> werden Ihnen dabei helfen.</li>
+        <br>
+        Suchen Sie nach etwas anderem? <a href="/contact" target="_blank">Buchen Sie ein gratis 15-minütiges Gespräch</a> um mehr zu erfahren.'
+
+- id: data
+  translation: Daten
+- id: data_block
+  translation: '<p>Data Engineering liegt uns im Blut. Wenn Sie nach einer Möglichkeit suchen, Ihre Machine-Learning-Modelle auf sichere und konforme Weise zu hosten, dann sind wir Ihr perfekter Partner.</p>
+        <p>Sie haben eine Menge Daten und möchten neue Erkenntnisse gewinnen? Wir sind in der Lage, ETL-Pipelines (Extract-Transform-Load) zu erstellen, unbegrenzte Daten zu hosten und zu speichern, daraus Modelle zu erstellen und Visualisierungen und Empfehlungen für Ihr Unternehmen zu entwickeln.</p>
+        <br>
+        <a href="/contact" target="_blank">Buchen Sie eine kostenlose 15-minütige Beratung</a> und erfahren Sie mehr.'
+
+- id: consult
+  translation: Beratung & Entwicklung
+- id: consult_block
+  translation: '<p>Mit unserem breiten Wissen über Cloud-, Daten- und DevOp-Technologien sind wir in der Lage, Sie bei jedem Projekt zu beraten und zu unterstützen</p>
+        <li>Python, Go, Web & React programmers</li>
+        <li>ETL pipelines</li>
+        <li>SQL & NoSQL experts</li>
+        <li>Kubernetes</li>
+        <li>Docker</li>
+        <li>Cloud</li>
+        <li>Strategien und Unternehmensentscheidungen</li>
+        <br>
+        <a href="/contact" target="_blank">Buchen Sie eine kostenlose 15-minütige Beratung</a>, um ein individuelles Angebot zu erhalten.'

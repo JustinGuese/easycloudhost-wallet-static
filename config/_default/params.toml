@@ -1,0 +1,81 @@
+#################### default parameters ################################
+logo = "images/logo_EasyServices.png"
+logo_text = "EasyServices"
+logo_width = "160x"
+favicon = "images/favicon.png"
+# Meta data
+description = "Simple, Secure and Scalable Cloud Solutions"
+author = "DataFortress.cloud"
+image = "images/logo_EasyServices" # this image will be used as fallback if a page has no image of its own
+# contact info
+address = "Georgenstraße 13, 86152 Augsburg, Germany"
+mobile = "+49 160 1136770"
+email = "easyfaas@datafortress.cloud"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# top hedaer
+top_hedaer = false
+# custom script on header
+custom_script= ""
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation buttons
+[navigation_button_solid]
+enable = true
+label = "Sign Up"
+link = ""
+
+[navigation_button_bordered]
+enable = true
+label = "Log In"
+link = ""
+
+# Sections
+[service_section]
+section = "services"
+
+# Subscription
+[subscription]
+enable = true
+description = "Subscribe now to stay informed about all Kubernetes, FAAS and Cloud news!"
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+# cookies
+[cookies]
+enable = true
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+
+######################## sidebar widgets #########################
+[widgets]
+sidebar = ["categories", "tags", "recent-post", "social"]
+# available widget : categories,tags,recent-post,social
+
+############################# social site ########################
+[[social]]
+title = "facebook"
+icon = "fab fa-facebook-f" # line-awesome : https://icons8.com/line-awesome
+link = "https://facebook.com/"
+
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # line-awesome : https://icons8.com/line-awesome
+link = "https://twitter.com/"
+
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # line-awesome : https://icons8.com/line-awesome
+link = "https://instagram.com/"
+
+############################# Footer Widget ########################
+[[footer_widget]]
+title = "Service"
+  footer_widget_link = ""

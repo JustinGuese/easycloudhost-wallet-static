@@ -1,0 +1,158 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+# [[main]]
+# name = "How It Works"
+# url = "how-it-works/"
+# weight = 3
+
+[[main]]
+name = "EasyServices"
+url = "features/"
+weight = 4
+hasChildren = true
+
+  [[main]]
+  weight = 1
+  parent = "EasyServices"
+  name = "Overview"
+  url = "/services/"
+
+  [[main]]
+  weight = 2
+  parent = "EasyServices"
+  name = "EasyFAAS"
+  url = "services/easyfaas/"
+
+  [[main]]
+  weight = 3
+  parent = "EasyServices"
+  name = "EasyKube"
+  url = "services/easykube/"
+
+  [[main]]
+  weight = 4
+  parent = "EasyServices"
+  name = "EasyHost"
+  url = "services/easyhost/"
+
+  [[main]]
+  weight = 5
+  parent = "EasyServices"
+  name = "EasyDB"
+  url = "services/easydb/"
+
+  [[main]]
+  weight = 6
+  parent = "EasyServices"
+  name = "EasyStore"
+  url = "services/easystore/"
+
+  [[main]]
+  weight = 7
+  parent = "EasyServices"
+  name = "EasySEO"
+  url = "services/easyseo/"
+
+  [[main]]
+  weight = 8
+  parent = "EasyServices"
+  name = "EasyHealth"
+  url = "services/easyhealth/"
+
+  [[main]]
+  weight = 9
+  parent = "EasyServices"
+  name = "EasyScale"
+  url = "services/easyscale/"
+
+  [[main]]
+  weight = 10
+  parent = "EasyServices"
+  name = "EasyModel"
+  url = "services/easymodel/"
+
+  [[main]]
+  weight = 11
+  parent = "EasyServices"
+  name = "Websites"
+  url = "easyservices/websites/"
+
+[[main]]
+weight = 5
+name = "Support"
+url = "/support/"
+
+[[main]]
+weight = 6
+name = "Pages"
+hasChildren = true
+
+  [[main]]
+  weight = 1
+  parent = "Pages"
+  name = "Blog"
+  url = "blog/"
+
+  [[main]]
+  weight = 1
+  parent = "Pages"
+  name = "Pricing"
+  url = "pricing/"
+
+  [[main]]
+  weight = 2
+  parent = "Pages"
+  name = "Testimonials"
+  url = "testimonials/"
+
+  [[main]]
+  weight = 2
+  parent = "Pages"
+  name = "My Subscriptions"
+  url = "subscription-management/"
+
+  
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 7
+
+
+# footer menus
+[[about]]
+name = "Our Story"
+url = "about"
+weight = 1
+
+[[about]]
+name = "Testimonials"
+url = "testimonials"
+weight = 2
+
+[[about]]
+name = "How It Works"
+url = "how-it-works"
+weight = 3
+
+
+
+[[help]]
+name = "Pricing"
+url = "pricing"
+weight = 1
+
+[[help]]
+name = "Blog"
+url = "blog"
+weight = 2
+
+[[help]]
+name = "Contact"
+url = "contact"
+weight = 4
