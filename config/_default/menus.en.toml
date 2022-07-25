@@ -90,6 +90,11 @@ url = "/support/"
 
 [[main]]
 weight = 6
+name = "FAQ"
+url = "/faq/"
+
+[[main]]
+weight = 7
 name = "Pages"
 hasChildren = true
 
@@ -132,7 +137,7 @@ hasChildren = true
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 7
+weight = 8
 
 
 # footer menus

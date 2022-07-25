@@ -90,6 +90,11 @@ url = "/de/support/"
 
 [[main]]
 weight = 6
+name = "FAQ"
+url = "/de/faq/"
+
+[[main]]
+weight = 7
 name = "Seiten"
 hasChildren = true
 

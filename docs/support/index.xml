@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Help &amp; Support on EasyCloudHost - Simple, Secure and Scalable cloud services</title>
-    <link>https://easycloudhost.de/support/</link>
-    <description>Recent content in Help &amp; Support on EasyCloudHost - Simple, Secure and Scalable cloud services</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright By [DataFortress.cloud](https://datafortress.cloud/)</copyright><atom:link href="https://easycloudhost.de/support/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Help &amp; Support on EasyCloudHost - Simple, Secure and Scalable cloud services</title><link>https://easycloudhost.de/support/</link><description>Recent content in Help &amp; Support on EasyCloudHost - Simple, Secure and Scalable cloud services</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright By [DataFortress.cloud](https://datafortress.cloud/)</copyright><atom:link href="https://easycloudhost.de/support/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
