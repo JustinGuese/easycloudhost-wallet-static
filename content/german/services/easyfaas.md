@@ -1,6 +1,6 @@
 ---
 title: "EasyFAAS"
-description: "this is meta description"
+description: "Function-as-a-Service (FAAS) leicht gemacht."
 draft: false
 img: "images/logos/EasyFAAS.png"
 ---
