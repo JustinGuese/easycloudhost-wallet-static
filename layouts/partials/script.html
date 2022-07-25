@@ -33,7 +33,8 @@
 {{ if .enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	{{.content | markdownify}}<span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2">{{.button}}</span>
+	{{.content | markdownify}}    <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2">{{.button}}</span>
+  <a href="google.com"><button id="js-cookie-button-deny" class="btn btn-sm btn-outline-primary ml-2">Decline</button></a>
 </div>
 <script type="application/javascript">
 	(function ($) {
