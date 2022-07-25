@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Services on EasyCloudHost - Simple, Secure and Scalable cloud services</title>
+    <link>https://easycloudhost.de/services/</link>
+    <description>Recent content in Our Services on EasyCloudHost - Simple, Secure and Scalable cloud services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright By [DataFortress.cloud](https://datafortress.cloud/)</copyright>
+    <lastBuildDate>Wed, 11 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consulting &amp; Development</title>
+      <link>https://easycloudhost.de/services/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://easycloudhost.de/services/consulting/</guid>
+      <description>Use a newer browser to see this video.   -- Consultation and Programming Having a broad knowledge of Cloud, Data and DevOp technologies, we will be able to consult and help you with any project</description>
+    </item>
+    
+    <item>
+      <title>EasyDB</title>
+      <link>https://easycloudhost.de/services/easydb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://easycloudhost.de/services/easydb/</guid>
+      <description>Use a newer browser to see this video.   -- Managed Databases You just want your databases to run, not caring about scaling, availability or downtime?</description>
+    </item>
+    
+    <item>
+      <title>EasyFAAS</title>
+      <link>https://easycloudhost.de/services/easyfaas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://easycloudhost.de/services/easyfaas/</guid>
+      <description>Use a newer browser to see this video.  Next Video: Tech-Demo</description>
+    </item>
+    
+    <item>
+      <title>EasyHealth</title>
+      <link>https://easycloudhost.de/services/easyhealth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://easycloudhost.de/services/easyhealth/</guid>
+      <description>Use a newer browser to see this video.   --    Source: HIPAA Journal</description>
+    </item>
+    
+    <item>
+      <title>EasyHost</title>
+      <link>https://easycloudhost.de/services/easyhost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://easycloudhost.de/services/easyhost/</guid>
+      <description>Use a newer browser to see this video.   The probability of bounce increases 32% as page load time goes from 1 second to 3 seconds Google/SOASTA Research, 2017.</description>
+    </item>
+    
+    <item>
+      <title>EasyKube</title>
+      <link>https://easycloudhost.de/services/easykube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://easycloudhost.de/services/easykube/</guid>
+      <description>Use a newer browser to see this video.   Your custom private cloud Managed Kubernetes service.</description>
+    </item>
+    
+    <item>
+      <title>EasyModel</title>
+      <link>https://easycloudhost.de/services/easymodel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://easycloudhost.de/services/easymodel/</guid>
+      <description>Use a newer browser to see this video.   -- Deploying and scaling of your Machine Learning Models We are helping you to get your Machine Learning Models up and running, all according to US and German privacy laws.</description>
+    </item>
+    
+    <item>
+      <title>EasyScale</title>
+      <link>https://easycloudhost.de/services/easyscale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://easycloudhost.de/services/easyscale/</guid>
+      <description>Use a newer browser to see this video.   -- Improving speed and reliability of your applications with EasyScale Page load times are important for both your clients and employees.</description>
+    </item>
+    
+    <item>
+      <title>EasySEO</title>
+      <link>https://easycloudhost.de/services/easyseo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://easycloudhost.de/services/easyseo/</guid>
+      <description>Use a newer browser to see this video.   75% of people never scroll past the first page of search engines.</description>
+    </item>
+    
+    <item>
+      <title>EasyStore</title>
+      <link>https://easycloudhost.de/services/easystore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://easycloudhost.de/services/easystore/</guid>
+      <description>Use a newer browser to see this video.   -- Managed S3 compatible Storage You just want an S3 like storage solution, but hosted in Germany/Europe?</description>
+    </item>
+    
+    <item>
+      <title>Websites</title>
+      <link>https://easycloudhost.de/services/websites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://easycloudhost.de/services/websites/</guid>
+      <description>Use a newer browser to see this video.   The probability of bounce increases 32% as page load time goes from 1 second to 3 seconds Google/SOASTA Research, 2017.</description>
+    </item>
+    
+  </channel>
+</rss>

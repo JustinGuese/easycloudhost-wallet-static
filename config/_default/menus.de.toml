@@ -108,14 +108,26 @@ hasChildren = true
   [[main]]
   weight = 2
   parent = "Seiten"
-  name = "Testimonials"
-  url = "/de/testimonials/"
-
-  [[main]]
-  weight = 2
-  parent = "Seiten"
   name = "Meine Subscriptions"
   url = "/de/subscription-management/"
+
+  [[main]]
+  weight = 3
+  parent = "Seiten"
+  name = "Datenschutz"
+  url = "de/privacy-policy/"
+
+  [[main]]
+  weight = 4
+  parent = "Seiten"
+  name = "AGB"
+  url = "/de/terms/"
+
+  [[main]]
+  weight = 5
+  parent = "Seiten"
+  name = "Impressum"
+  url = "/de/impressum/"
 
   
 [[main]]

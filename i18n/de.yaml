@@ -1,104 +1,104 @@
 - id: read_more
-  translation: Read More
+  translation: Mehr erfahren
   
 - id: address
-  translation: Our Address
+  translation: Unsere Adresse
 
 - id: phone
-  translation: Phone Number
+  translation: Telefonnummer
 
 - id: email
-  translation: Message Us
+  translation: Schreiben Sie uns
 
 - id: contact_form
-  translation: Contact Form
+  translation: Kontaktformular
 
 - id: send
-  translation: Send Message
+  translation: Nachricht senden
 
 - id: follow
-  translation: FOLLOW US ON
+  translation: FOLGEN SIE UNS AUF
 
 - id: services
   translation: Services
 
 - id: contact_info
-  translation: Contact Info
+  translation: Kontaktinformation
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Newsletter abonnieren
 
 - id: subscribe
-  translation: Subscribe
+  translation: Abonnieren
 
 - id: connect_with_us
-  translation: Connect With Us
+  translation: Kontaktieren Sie uns
 
 - id: call_now
-  translation: Call Now
+  translation: Jetzt anrufen
 
 - id: search_placeholder
-  translation: Type & Hit Enter...
+  translation: Tippen Sie und drücken Sie Eingabe...
 
 - id: latest_article
-  translation: Latest Article
+  translation: Neueste Artikel
 
 - id: category
-  translation: Category
+  translation: Kategorie
 
 - id: tags
   translation: Tags
 
 - id: view_details
-  translation: View Details
+  translation: Detaile anzeigen
 
 - id: know_about_us
-  translation: SSobre Nosotras
+  translation: Lernen Sie uns kennen
 
 - id: all_services
-  translation: Todos Los Servicios
+  translation: Alle Services
 
 - id: social
-  translation: Vínculos Sociales
+  translation: Social-Links
 
 - id: leave_message
-  translation: Déjanos Un Mensaje
+  translation: Hinterlassen Sie uns eine Nachricht
 
 - id: full_name
-  translation: Full Name
+  translation: Vollständiger Name
 
 - id: email_address
-  translation: Email address
+  translation: Email Adresse
 
 - id: write_message
-  translation: Write Message
+  translation: Nachricht
 
 - id: how_much_need
-  translation: ¿Cuánto necesitas?
+  translation: Wie viel brauchen Sie?
 
 - id: amount
-  translation: Monto
+  translation: Menge
 
 - id: how_long_for
-  translation: ¿Cuánto tiempo para?
+  translation: Für wie lange?
 
 - id: repayment
-  translation: Reembolso
+  translation: Rückzahlung
 
 - id: get_your_loan_now
-  translation: Obtenga su préstamo ahora
+  translation: Holen Sie sich Ihr Darlehen jetzt
 
 - id: service
-  translation: Servicio
+  translation: Service
 
 - id: about
-  translation: Acerca de
+  translation: Über uns
 
 - id: help
-  translation: Ayudar
+  translation: Hilfe
 
 - id: subscribe
-  translation: Suscribir
+  translation: Abonnieren
 
 
 # other shit

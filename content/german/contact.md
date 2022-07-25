@@ -1,24 +1,22 @@
 ---
-title : "Contacta con nosotras"
-description : "this is meta description"
+title : "Kontaktieren Sie uns"
+description : "Haben Sie noch eine Frage? Fühlen Sie sich frei, uns zu erreichen"
 layout : "contact"
 draft : false
 
 contact:
-  subtitle: "Contacta con nosotras"
-  title: "vamos a conectarnos"
-  description: "Lorem ipsum dolor sit, consectetur adipiscing . egestas cursus pellentesque dignissim dui, congue etiam"
+  subtitle: "Kontaktieren Sie uns"
+  title: "Lassen Sie uns Kontakt aufnehmen"
+  description: "Buchen Sie ein kostenloses 15-minütiges Beratungsgespräch über Ihre Probleme, oder kontaktieren Sie uns direkt"
 
 contactInfo:
-  - title: "¿Todavía tienes preguntas?"
-    content: "Call Us We Will Be Happy To Help <br>
-    [+3301563965](tel:+3301563965) <br>
-    Monday - Friday <br>
-    9AM TO 8PM Eastern Time"
+  - title: "Haben Sie noch Fragen?"
+    content: "[Schreiben Sie uns eine Nachricht](/contact) <br>
+    oder buchen Sie eine [gratis 15-minütige Beratung](/contact)"
 
-  - title: "Canada Office"
-    content: "231 Ross Street. <br> K7A 1C2. <br> Smiths Falls"
+  - title: "Germany Office"
+    content: "Georgenstraße 13 <br> 86152 Augsburg <br> Germany"
 
-  - title: "UK Office"
-    content: "57 Folkestone Road. <br> AB54 5XQ, <br> Winston"
+  # - title: "UK Office"
+  #   content: "57 Folkestone Road. <br> AB54 5XQ, <br> Winston"
 ---

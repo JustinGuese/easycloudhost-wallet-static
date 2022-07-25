@@ -53,7 +53,7 @@
   translation: View Details
 
 - id: know_about_us
-  translation: Know About Us
+  translation: Get to know us
 
 - id: all_services
   translation: All Services
@@ -71,7 +71,7 @@
   translation: Email address
 
 - id: write_message
-  translation: Write Message
+  translation: Message
 
 - id: how_much_need
   translation: How much do you need?

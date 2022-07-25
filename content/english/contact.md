@@ -7,7 +7,7 @@ draft : false
 contact:
   subtitle: "Contact us"
   title: "Let's get connected"
-  description: "15 minute and so on"
+  description: "Book a free 15-minute consultation about your problems, or contact us directly."
 
 contactInfo:
   - title: "Still Have Questions?"
