@@ -19,7 +19,7 @@ draft: false
 
 # Verbessern Sie die Geschwindigkeit und Zuverlässigkeit Ihrer Anwendungen mit EasyScale
 
-Die Ladezeiten einer Seite sind sowohl für Ihre Kunden als auch für Ihre Mitarbeiter wichtig. Schon eine **2 Sekunden längere Ladezeit kann dazu führen, dass ein Kunde Ihre Website verlässt** ([Quelle](/de/easyservices/websites/)).
+Die Ladezeiten einer Seite sind sowohl für Ihre Kunden als auch für Ihre Mitarbeiter wichtig. Schon eine **2 Sekunden längere Ladezeit kann dazu führen, dass ein Kunde Ihre Website verlässt** ([Quelle](/de/services/websites/)).
 
 Außerdem haben Sie vielleicht eine Anwendung erstellt, die die Last einiger Benutzer gut bewältigt, aber Schwierigkeiten hat, mit neuen Benutzern Schritt zu halten?
 

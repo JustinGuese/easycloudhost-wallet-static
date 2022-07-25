@@ -4,6 +4,10 @@ banner:
   enable: true
   title : "Machen Sie sich keine Gedanken um Hosting"
   subtitle : "Unsere EasyServices ermöglichen es Ihnen, sich auf das zu konzentrieren, was für Ihr Unternehmen wichtig ist. Überlassen Sie uns die Geschwindigkeit und die Einhaltung von Vorschriften und konzentrieren Sie sich darauf, mit Ihrem Kerngeschäft mehr Einnahmen zu erzielen."
+  character_image: "images/banner/character.webp"
+  lamp_image: "images/banner/server.webp"
+  cube_image: "images/banner/shield.webp"
+  chess_image: "images/banner/coding.webp"
   button:
     enable: true
     label: "Unsere EasyServices"

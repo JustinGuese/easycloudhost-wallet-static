@@ -19,7 +19,7 @@ draft: false
 
 # Improving speed and reliability of your applications with EasyScale
 
-Page load times are important for both your clients and employees. Just a **2 second increase in load times can cause a client to leave your website** ([source](/easyservices/websites/)).
+Page load times are important for both your clients and employees. Just a **2 second increase in load times can cause a client to leave your website** ([source](/services/websites/)).
 
 Additionally, you might have created an application which handled the load of some users just fine, but struggles to keep up with new users?
 

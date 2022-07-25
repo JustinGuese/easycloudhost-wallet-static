@@ -1,5 +1,5 @@
 #################### default parameters ################################
-logo = "images/logo_EasyServices.png"
+logo = "images/EasyServices_black-transparent.png"
 logo_text = "EasyServices"
 logo_width = "160x"
 favicon = "images/favicon.png"
@@ -12,7 +12,7 @@ address = "Georgenstraße 13, 86152 Augsburg, Germany"
 mobile = "+49 160 1136770"
 email = "easyfaas@datafortress.cloud"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mknvkdpr" # contact form works with https://formspree.io
 # top hedaer
 top_hedaer = false
 # custom script on header
@@ -27,10 +27,10 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button_solid]
 enable = true
 label = "Sign Up"
-link = ""
+link = "contact"
 
 [navigation_button_bordered]
-enable = true
+enable = false
 label = "Log In"
 link = ""
 

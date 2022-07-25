@@ -53,7 +53,7 @@ This is where SEO comes into play.
 Our secret is simple: **Simplicity**
 
 {{< notice "tip" >}}
-  Looking for Website Programming? Head over to [Websites](/easyservices/websites/)
+  Looking for Website Programming? Head over to [Websites](/services/websites/)
 {{< /notice >}}
 
 A lot of companies offer SEO nowadays, but many of them remain in the old mindset that only worked years back: repeating your keywords over and over again. But actually, the current Google algorithm is not that simple anymore. It checks a lot for links that are referring to your website, and can quite accuarately, predict if a text was just written for SEO, or is actually helpful.
@@ -92,7 +92,7 @@ Page speed is equally important, which is why you will see that our content load
 | DataFortress.cloud     | Company site, Blog | <img loading="lazy" style="width:250px" src="images/services/easyhost/datafortress-website-min.png" alt="DataFortress Website"> | https://datafortress.cloud/ |
 | BildBlatt.de    | WordPress Shop turned static | <img loading="lazy" style="width:250px" src="images/services/easyhost/bildblatt-website-min.png" alt="Bildblatt wordpress Website"> | https://bildblatt.de/ |
 | GoodThings4U    | Complete Static Shop | <img loading="lazy" style="width:250px" src="images/services/easyhost/goodthings4u-website-min.png" alt="GoodThings4U static Shop Website"> | https://goodthings4u.com/ |
-| DeFiGamez    | Blog, highly content driven | <img loading="lazy" style="width:250px" src="images/easyservices/websites/portfolio-defigamez.png" alt="GoodThings4U static Shop Website"> | https://defigamez.com/ |
+| DeFiGamez    | Blog, highly content driven | <img loading="lazy" style="width:250px" src="images/services/websites/portfolio-defigamez.png" alt="GoodThings4U static Shop Website"> | https://defigamez.com/ |
 
 </div>
 

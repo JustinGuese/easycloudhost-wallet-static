@@ -112,13 +112,13 @@
 
         {{ if site.Params.navigation_button_bordered.enable }}
         {{ "<!-- account btn -->" | safeHTML }}
-        <a href="{{ site.Params.navigation_button.link | absLangURL }}"
+        <a href="{{ site.Params.navigation_button_bordered.link | absLangURL }}"
           class="btn btn-outline-primary">{{ site.Params.navigation_button_bordered.label }}</a>
         {{ end }}
 
         {{ if site.Params.navigation_button_solid.enable }}
         {{ "<!-- account btn -->" | safeHTML }}
-        <a href="{{ site.Params.navigation_button.link | absLangURL }}"
+        <a href="{{ site.Params.navigation_button_solid.link | absLangURL }}"
           class="btn btn-primary ms-2 ms-lg-3">{{ site.Params.navigation_button_solid.label }}</a>
         {{ end }}
       </div>

@@ -521,6 +521,18 @@
                 href="https://easycloudhost.de/de/privacy-policy/"
                 />
   </url><url>
+    <loc>https://easycloudhost.de/de/subscription-management/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/subscription-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/subscription-management/"
+                />
+  </url><url>
     <loc>https://easycloudhost.de/de/terms/</loc>
     <xhtml:link
                 rel="alternate"

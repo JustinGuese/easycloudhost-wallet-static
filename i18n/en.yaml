@@ -134,7 +134,7 @@
   translation: Websites
 - id: websites_block
   translate: '<li>Are you looking for a way to <strong>simply host your websites</strong> in a compliant way? <a href="/easyservices/easyhost/" target="_blank">"EasyHost"</a> might be something for you.</li>
-        <li>You want to create or adapt a website such that it is faster and converts more? Our static <a href="/easyservices/websites/" target="_blank">"Websites"</a> will help you with this.</li>
+        <li>You want to create or adapt a website such that it is faster and converts more? Our static <a href="/services/websites/" target="_blank">"Websites"</a> will help you with this.</li>
         <br>
         Looking for something else? <a href="/contact" target="_blank">Book a free 15-minute consultation</a> to find out more.'
 

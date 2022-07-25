@@ -47,7 +47,7 @@ Unser Geheimnis ist einfach: **Einfachheit**
 Einfachheit sowohl in Bezug auf die **Benutzererfahrung**, als auch auf das Hosting.
 
 {{< notice "tip" >}}
-  Suchen Sie nach Website-Programmierung? Gehen Sie zu [Webseiten](/de/easyservices/websites/)
+  Suchen Sie nach Website-Programmierung? Gehen Sie zu [Webseiten](/de/services/websites/)
 {{< /notice >}}
 
 ### Der Niedergang und der Aufstieg der statischen Websites

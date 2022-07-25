@@ -16,15 +16,23 @@
           {{ end }}
         </div>
       </div>
-      <div class="col-lg-6">
-        <div class="ps-lg-5 text-center">
-          {{ if .image }}
-          {{ if fileExists (add `assets/` .image) }}
-          {{$img:= resources.Get (.image) }}
-          {{$img:= $img.Resize "555x webp"}}
-          <img loading="lazy" decoding="async" src="{{$img.RelPermalink}}" alt="banner image" class="w-100" width="{{$img.Width}}" height="{{$img.Height}}">
-          {{ end }}
-          {{ end }}
+      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">
+        <div class="banner-image">
+          {{$c_img:= resources.Get (.character_image) }}
+          {{$c_img:= $c_img.Resize "460x webp"}}
+          <img loading="lazy" decoding="async" class="character jumping img-fluid" src="{{$c_img.RelPermalink}}" alt="character_image" width="{{$c_img.Width}}" height="{{$c_img.Height}}">
+
+          {{$lamp_image:= resources.Get (.lamp_image) }}
+          {{$lamp_image:= $lamp_image.Resize "72x webp"}}
+          <img loading="lazy" decoding="async" class="lamp img-fluid" src="{{$lamp_image.RelPermalink}}" alt="lamp_image" width="{{$lamp_image.Width}}" height="{{$lamp_image.Height}}">
+
+          {{$cube_image:= resources.Get (.cube_image) }}
+          {{$cube_image:= $cube_image.Resize "78x webp"}}
+          <img loading="lazy" decoding="async" class="cube img-fluid" src="{{$cube_image.RelPermalink}}" alt="cube_image" width="{{$cube_image.Width}}" height="{{$cube_image.Height}}">
+
+          {{$chess_image:= resources.Get (.chess_image) }}
+          {{$chess_image:= $chess_image.Resize "72x webp"}}
+          <img loading="lazy" decoding="async" class="chess img-fluid" src="{{$chess_image.RelPermalink}}" alt="chess_image" width="{{$chess_image.Width}}" height="{{$chess_image.Height}}">
         </div>
       </div>
     </div>

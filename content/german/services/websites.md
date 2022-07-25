@@ -85,8 +85,8 @@ Wenn Sie eine Website mit uns erstellen möchten, können Sie eine der folgenden
 
 |  <div style="width:150px">Website name</div>     | Type           | Example  | Demo |
 | ------------- |:-------------:| -----:| -----:|
-| Kross | Portfolio (Creative) | <img loading="lazy" style="width:250px" src="images/easyservices/websites/portfolio-kross.png" alt="Kross portfolio webiste"> | <a href="https://demo.gethugothemes.com/kross" target="_blank">Demo</a> |
-| Northend Lab | Portfolio (Webdesign) | <img loading="lazy" style="width:250px" src="images/easyservices/websites/portfolio-northendlab.png" alt="Northendlab portfolio webiste"> | <a href="https://demo.gethugothemes.com/northendlab" target="_blank">Demo</a> |
+| Kross | Portfolio (Creative) | <img loading="lazy" style="width:250px" src="images/services/websites/portfolio-kross.png" alt="Kross portfolio webiste"> | <a href="https://demo.gethugothemes.com/kross" target="_blank">Demo</a> |
+| Northend Lab | Portfolio (Webdesign) | <img loading="lazy" style="width:250px" src="images/services/websites/portfolio-northendlab.png" alt="Northendlab portfolio webiste"> | <a href="https://demo.gethugothemes.com/northendlab" target="_blank">Demo</a> |
 
 </div>
 
@@ -96,8 +96,8 @@ Wenn Sie eine Website mit uns erstellen möchten, können Sie eine der folgenden
 
 |  <div style="width:150px">Website name</div>       | Type           | Example  | Demo |
 | ------------- |:-------------:| -----:| -----:|
-| Bilberry | CV | <img loading="lazy" style="width:250px" src="images/easyservices/websites/cv-bilberry.png" alt="CV Bilberry portfolio webiste"> | <a href="https://lednerb.github.io/bilberry-hugo-theme" target="_blank">Demo</a> |
-| GoFolium | Portfolio/CV (Tech) | <img loading="lazy" style="width:250px" src="images/easyservices/websites/portfolio-gofolio.png" alt="GoFolio portfolio webiste"> | <a href="https://demo.gethugothemes.com/gofolium" target="_blank">Demo</a> |
+| Bilberry | CV | <img loading="lazy" style="width:250px" src="images/services/websites/cv-bilberry.png" alt="CV Bilberry portfolio webiste"> | <a href="https://lednerb.github.io/bilberry-hugo-theme" target="_blank">Demo</a> |
+| GoFolium | Portfolio/CV (Tech) | <img loading="lazy" style="width:250px" src="images/services/websites/portfolio-gofolio.png" alt="GoFolio portfolio webiste"> | <a href="https://demo.gethugothemes.com/gofolium" target="_blank">Demo</a> |
 
 </div>
 
@@ -111,9 +111,9 @@ Wenn Sie eine Website mit uns erstellen möchten, können Sie eine der folgenden
 
 |  <div style="width:150px">Website name</div>  | Type           | Example  | Demo |
 | ------------- |:-------------:| -----:| -----:|
-| Biztrox | Company | <img loading="lazy" style="width:250px" src="images/easyservices/websites/agency-company-biztrox.webp" alt="Biztrox company webiste"> | <a href="https://demo.gethugothemes.com/biztrox" target="_blank">Demo</a> |
-| Agen | Agency (Creative) | <img loading="lazy" style="width:250px" src="images/easyservices/websites/agency-company-agen.webp" alt="Agen agency webiste"> | <a href="https://demo.gethugothemes.com/agen" target="_blank">Demo</a> |
-| Bexer | Company | <img loading="lazy" style="width:250px" src="images/easyservices/websites/agency-company-bexer.webp" alt="bexer agency webiste"> | <a href="https://demo.gethugothemes.com/bexer" target="_blank">Demo</a> |
+| Biztrox | Company | <img loading="lazy" style="width:250px" src="images/services/websites/agency-company-biztrox.webp" alt="Biztrox company webiste"> | <a href="https://demo.gethugothemes.com/biztrox" target="_blank">Demo</a> |
+| Agen | Agency (Creative) | <img loading="lazy" style="width:250px" src="images/services/websites/agency-company-agen.webp" alt="Agen agency webiste"> | <a href="https://demo.gethugothemes.com/agen" target="_blank">Demo</a> |
+| Bexer | Company | <img loading="lazy" style="width:250px" src="images/services/websites/agency-company-bexer.webp" alt="bexer agency webiste"> | <a href="https://demo.gethugothemes.com/bexer" target="_blank">Demo</a> |
 
 </div>
 
@@ -127,11 +127,11 @@ Wenn Sie eine Website mit uns erstellen möchten, können Sie eine der folgenden
 
 |  <div style="width:150px">Website name</div>  | Type           | Example  | Demo |
 | ------------- |:-------------:| -----:| -----:|
-| Single product | Single Product | <img loading="lazy" style="width:250px" src="images/easyservices/websites/product-single.webp" alt="single product webiste"> | <a href="https://demo.gethugothemes.com/influencer" target="_blank">Demo</a> |
-| Hargo | Few Products | <img loading="lazy" style="width:250px" src="images/easyservices/websites/hargo.webp" alt="Agen agency webiste"> | <a href="https://gethugothemes.com/products/hargo" target="_blank">Demo</a> |
-| Detox | SAAS | <img loading="lazy" style="width:250px" src="images/easyservices/websites/dtox.webp" alt="detox agency webiste"> | <a href="https://gethugothemes.com/products/dtox" target="_blank">Demo</a> |
-| Agico | SAAS | <img loading="lazy" style="width:250px" src="images/easyservices/websites/agico.webp" alt="agico agency webiste"> | <a href="https://demo.gethugothemes.com/agico" target="_blank">Demo</a> |
-| Adrian | Multi-Shop | <img loading="lazy" style="width:250px" src="images/easyservices/websites/adrian.webp" alt="adrian agency webiste"> | <a href="https://demo.gethugothemes.com/adrian" target="_blank">Demo</a> |
+| Single product | Single Product | <img loading="lazy" style="width:250px" src="images/services/websites/product-single.webp" alt="single product webiste"> | <a href="https://demo.gethugothemes.com/influencer" target="_blank">Demo</a> |
+| Hargo | Few Products | <img loading="lazy" style="width:250px" src="images/services/websites/hargo.webp" alt="Agen agency webiste"> | <a href="https://gethugothemes.com/products/hargo" target="_blank">Demo</a> |
+| Detox | SAAS | <img loading="lazy" style="width:250px" src="images/services/websites/dtox.webp" alt="detox agency webiste"> | <a href="https://gethugothemes.com/products/dtox" target="_blank">Demo</a> |
+| Agico | SAAS | <img loading="lazy" style="width:250px" src="images/services/websites/agico.webp" alt="agico agency webiste"> | <a href="https://demo.gethugothemes.com/agico" target="_blank">Demo</a> |
+| Adrian | Multi-Shop | <img loading="lazy" style="width:250px" src="images/services/websites/adrian.webp" alt="adrian agency webiste"> | <a href="https://demo.gethugothemes.com/adrian" target="_blank">Demo</a> |
 
 </div>
 
@@ -145,7 +145,7 @@ Wenn Sie eine Website mit uns erstellen möchten, können Sie eine der folgenden
 
 |  <div style="width:150px">Website name</div>  | Type           | Example  | Demo |
 | ------------- |:-------------:| -----:| -----:|
-| X-con | Event | <img loading="lazy" style="width:250px" src="images/easyservices/websites/vixcon.webp" alt="vixcon product webiste"> | <a href="https://demo.gethugothemes.com/vixcon/" target="_blank">Demo</a> |
+| X-con | Event | <img loading="lazy" style="width:250px" src="images/services/websites/vixcon.webp" alt="vixcon product webiste"> | <a href="https://demo.gethugothemes.com/vixcon/" target="_blank">Demo</a> |
 
 </div>
 
