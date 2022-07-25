@@ -2,13 +2,13 @@
 ############################ Banner ##################################
 banner:
   enable: true
-  title : "Obtenga un préstamo más rápido con una forma inteligente de estar sentado en casa "
-  subtitle : "We have collected the best offers of credit institutions and banks <br> of Colombia.  It remains to choose what suits you as fast as you."
+  title : "Machen Sie sich keine Gedanken um Hosting"
+  subtitle : "Unsere EasyServices ermöglichen es Ihnen, sich auf das zu konzentrieren, was für Ihr Unternehmen wichtig ist. Überlassen Sie uns die Geschwindigkeit und die Einhaltung von Vorschriften und konzentrieren Sie sich darauf, mit Ihrem Kerngeschäft mehr Einnahmen zu erzielen."
   button:
     enable: true
-    url: "/contact"
-    label: "Solicite Préstamo Ahora"
+    label: "Unsere EasyServices"
     icon: "fas fa-arrow-right"
+    button_modal_target: "/de/services"
   image: "images/banner/banner.png"
 
 
@@ -19,110 +19,93 @@ services:
 ############################ Difference Of Us ##################################
 difference_of_us:
   enable: true
-  subtitle: "Difference Of Us"
-  title: "Lo que nos hace <br> ¿Diferente de los demás?"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consv allis quam aliquet integer eget magna ullam corper intesager peent esque urna. Ac eu fringilla intea dger egadv estas ut. Sed vulutate aenean nunc quis a urna morbi id vitae. Vulpuate nisl 
-
-
-  sed morbi sit ut placerat eges aeftas et. Pellen tesque tristisque magnis augue gravida pulvinar placerat. Tellus massa pretra scelerisque leo. In volutpat arcu nunc nisl et, viverra faucisfbus egestas. In habitasse sagittis, convallis ut commodo amet, odio sagittis. Maecenas massa turpis duis felis, massa. Morbi feugiat."
+  subtitle: "Über uns"
+  title: "Was unterscheidet uns <br> von Anderen?"
+  description: "Entwickler sagen, dass sie bis zu 60 % ihrer Zeit mit DevOps statt mit dem Produkt verbringen"
+  description: "Anstatt sich auf das Kerngeschäft zu konzentrieren, verbringen Entwickler viel Zeit mit Wartung, Deployments und allgemeinen DevOps. 
+  Hinzu kommt, dass viele neue Datenschutzbestimmungen in Deutschland und Europa die Nutzung amerikanischer Cloud-Anbieter nahezu verbieten, die bei Zuwiderhandlung mit bis zu 4% des Jahresumsatzes eines Unternehmens bestraft werden können."
 
   item:
-  - title: "Fast And Secure Process"
+  - title: "Serverloses Hosting von Code"
     icon: "fas fa-shield-alt"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla congue sed aliquam id adipiscing auue"
+    description: "schreiben Sie einfach Ihren Code und 'laden' Sie ihn hoch - das erfüllt unser FAAS Produkt [EasyFAAS]"
     
-  - title: "Quick Question Answers "
+  - title: "Compliance"
     icon: "fas fa-blender-phone"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla congue sed aliquam id adipiscing auue "
+    description: "Unsere Rechenzentren befinden sich in Nürnberg und Falkenstein und sind somit außerhalb der Reichweite der Amerikaner. Optional ist auch ein Hosting in den USA und Finnland möglich."
     
-  - title: "We Get You Your Cash Quick"
+  - title: "Abstraktion von Code"
     icon: "fas fa-money-bill-alt"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla congue sed aliquam id adipiscing auue "
+    description: "Abstraktion von Code - Wir bieten eine Reihe von Services an, die jeweils eine Schicht des DevOps-Prozesses abstrahieren. Volle Kontrolle? Testen Sie EasyKube, unsere verwaltete Kubernetes-Plattform. Sie brauchen eine verwaltete Datenbank? EasyDB. Sie wollen nichts mit DevOps zu tun haben? EasyFAAS ist Ihre Antwort."
 
 ############################ About Ourselves ##################################
 about_ourselves:
   enable: true
-  subtitle: "About Ourselves"
-  title: "Financiamiento rápido y pago flexible"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consv allis quam aliquet integer eget magna ullam corper intesager vulutate aenean nunc quis a urna morbi id vitae. Vulpuate nisl  
-
-
-  sed morbi sit ut placerat eges aeftas et. Pellen tesque tristisque magnis augue gravida pulvinar placerat. Tellus massa pretra scelerisque leo. In volutpat arcu nunc nisl et, viverra faucisfbus"
+  subtitle: "Keine unerwarteten Kosten"
+  title: "EasyServices bieten vereinfachte Abrechnung."
+  description: "Die Abrechnung mit EasyServices ist einfach: Es gibt einen Festpreis pro Service, ohne versteckte Traffic-, Speicher- oder nutzungsabhängige Gebühren. Große Cloud-Anbieter erweisen sich oft als viel teurer als erwartet, was zu einer schlechten Nutzererfahrung führt. Wir möchten Ihr vertrauensvoller Partner für die Cloud sein und bieten daher feste monatliche Abonnements ohne zusätzliche Kosten an."
   image: "images/about-us.webp"
 
 
 ############################ Homepage Tab ##################################
 homepage_tab:
   enable: true
-  subtitle: "Difference Of Us"
-  title: "Conozca los conceptos básicos Precios y pagos sencillos"
+  subtitle: "Haben Sie noch Fragen?"
+  title: "EasyCloudHost macht das Hosting von sensiblen Anwendungen und Daten einfach und konform."
 
   tablist:
-  - title: "How Much Can I Recive?"
-    description: "Lorem ipsum dolor sit amet, consec tetasssur adipiscing elit. Tellus integer proin nisl pretium,  vestibulum dictum blandit risus. Nisl commodo
-    
-
-    turpis vivamus donec. Id congue vesti bualum odio dignissim at quisque viverra. Non semper in sed quisque dui. Platea posuere ullamcorper id fames ut sed urna cursus eget. Neque, vel "
+  - title: "Wie sicher sind meine Daten in EasyServices?"
+    description: "Die Rechenzentren unseres Hosting-Anbieters (Hetzner) werden streng bewacht und die gesamte Kommunikation erfolgt SSL-verschlüsselt, es sei denn, Ihr Dienst verwendet absichtlich etwas anderes. Hetzner ist einer der größten Anbieter in Europa und ist historisch zuverlässig."
     image: "images/payment-info.webp"
 
-  - title: "How Much Does It Costs?"
-    description: "Lorem ipsum dolor sit amet, consec tetasssur adipiscing elit. Tellus integer proin nisl pretium,  vestibulum dictum blandit risus. Nisl commodo
-    
-    
-    turpis vivamus donec. Id congue vesti bualum odio dignissim at quisque viverra. Non semper in sed quisque dui. Platea posuere ullamcorper id fames ut sed urna cursus eget. Neque, vel "
+  - title: "Welche Verschlüsselung verwenden Sie?"
+    description: "Der Datenverkehr ist SSL-verschlüsselt, verwendet das neueste TLS 1.3-Protokoll und wird über benutzerdefinierte Subnetze von Kubernetes isoliert."
     image: "images/illustration-2.png"
 
-  - title: "How Do I Repay?"
-    description: "Lorem ipsum dolor sit amet, consec tetasssur adipiscing elit. Tellus integer proin nisl pretium,  vestibulum dictum blandit risus. Nisl commodo
-    
-    
-    turpis vivamus donec. Id congue vesti bualum odio dignissim at quisque viverra. Non semper in sed quisque dui. Platea posuere ullamcorper id fames ut sed urna cursus eget. Neque, vel "
+  - title: "Was passiert, wenn ich Hilfe brauche?"
+    description: "Wenn das Problem auf unserer Seite liegt, ist die Hilfe kostenlos, aber im Gegensatz zu größeren Cloud-Anbietern bieten wir auch Beratung und Entwicklerstunden an. Sie brauchen sich um nichts zu kümmern, und wir können Sie bei Ihrer Cloud-Transformation voll unterstützen."
     image: "images/illustration-1.png"
 
 
 ############################ testimonials ##################################
 testimonials:
   enable: true
-  subtitle: "Our Service Holders"
-  title: "Trusted By 1.2K+ Peoples"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing. egestas cursus pellentesque dignissim dui, congue. Vel etiam ut"
+  subtitle: "Unsere zufriedenen Kunden"
+  title: "Vertrauen von mehr als 20 Unternehmen"
+  description: "Glauben Sie uns nicht, sondern hören Sie auf unsere Kunden:"
 
   item:
-  - image: "images/testimonials/01.jpg"
-    name: "Leslie Alexander"
-    designation: "Web Designer"
-    review_text: "Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse."
 
-  - image: "images/testimonials/02.jpg"
-    name: "Arlene McCoy"
-    designation: "Content Strategist"
-    review_text: "Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse."
-
-  - image: "images/testimonials/03.jpg"
-    name: "Marvin McKinney"
-    designation: "Video Game Writer"
-    review_text: "Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse."
-
-  - image: "images/testimonials/04.jpg"
-    name: "Devon Lane"
-    designation: "Nursing Assistant"
-    review_text: "Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse."
-
-  - image: "images/testimonials/05.jpg"
-    name: "Bessie Cooper"
-    designation: "Video Game Writer"
-    review_text: "Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse."
-
-  - image: "images/testimonials/06.jpg"
-    name: "Kathryn Murphy"
-    designation: "Film Critic"
-    review_text: "Lorem ipsum dolor [@reamansimond](http://google.com) demina egestas sit purus felis arcu. Vitae, turpisds tortr etiam faucibus ac suspendisse."
+  - name: "James"
+    designation: "Startup Gründer"
+    image: "images/feedback/01.webp"
+    review_text: "Justin hätte kein besserer Mitarbeiter sein können! Er hat nicht nur unsere Backend-Architektur drastisch verbessert und unsere technischen Schulden fast beseitigt, er hat uns auch viel beigebracht und unser Unternehmen in die richtige Richtung gebracht. Justin ist ein erfahrener Architekt, der genau weiß, wie Backend-Systeme konzipiert werden sollten, und der in der Lage ist, diese Konzepte den weniger erfahrenen Teammitgliedern wortgewandt zu erklären. Wenn etwas kaputt geht, ist er bei der Fehlerbehebung zur Stelle. Wenn Schulungen erforderlich sind, stellt er ausführliche Dokumentationen, aufgezeichnete Videos und Einzelgespräche zur Verfügung, um sicherzustellen, dass die Konzepte von allen verstanden werden und die Aufgaben auch ohne seine Hilfe ausgeführt werden können. Er hat unserem Team ungemein geholfen, und ich empfehle ihn von ganzem Herzen jedem anderen Team, das einen hochkompetenten technischen Berater braucht - egal, ob Sie einen Architekten und Berater, einen technischen Entwickler oder eine Kombination aus beidem brauchen, Justin ist Ihr Mann."
+  - name: "Christoph Wagner"
+    designation: "Marketing Head"
+    image: "images/feedback/02.webp"
+    review_text: "EasyHost hat uns geholfen, unseren WordPress-Shop schnell zum Laufen zu bringen. Ich bin froh zu wissen, dass die Daten meiner Kunden sicher sind, vor allem im Hinblick auf die neuen DSGVO-Gesetze. Ich kann Justin und sein Team nur empfehlen!"
+  - name: "Sharon Briggs"
+    designation: "Shop owner"
+    image: "images/feedback/03.webp"
+    review_text: "EasyServices und Justin haben mehrere Shops für uns entwickelt, die alle schnell laufen und sogar günstiger als Shopify sind! Erstaunlich - er weiß auch eine Menge über Marketing, ich kann seine Arbeit empfehlen"
+  - name: "Peter from Haarbach AG"
+    designation: "CEO"
+    image: "images/feedback/logo1.png"
+    review_text: "Wir wollten eine Datenbank in die Cloud migrieren, wobei uns EasyDB sehr geholfen hat. Wir sind von einer alten Oracle-Datenbank zu Postgresql gewechselt, das von Justin verwaltet wird. Gut, dass wir jetzt sorgenfrei sind."
+  - name: "SEO driven Platform"
+    designation: "CEO"
+    image: "images/feedback/logo2.png"
+    review_text: "Durch den Einsatz von EasyScale konnten wir die Geschwindigkeit unserer Anwendung um ein Vielfaches erhöhen. Endlich weg von WordPress, haha :D. Wir haben unseren Umsatz um etwa 20% gesteigert, was wohl zu einem großen Teil auf die Geschwindigkeit zurückzuführen ist."
+  - name: "anonymous"
+    designation: "Lead Developer"
+    image: "images/feedback/anonymous.png"
+    review_text: "Wir führen mehrere Machine-Learning-Modelle im Finanzbereich aus und scannen jede Millisekunde mehrere APIs. Justin hat uns geholfen, unsere Arbeitslasten mit Kubernetes und Scaling zu skalieren. Ich empfehle seine Arbeit"
 
 
 ############################ faq ##################################
 faq:
   enable: true
-  subtitle: "Questions You Have"
+  subtitle: "Questions You Might Have"
   title: "Frequently Asked Questions"
 
 ---

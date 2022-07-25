@@ -1,148 +1,121 @@
 ---
-title : "Sobre nosotros"
-description : "this is meta description"
+title : "About Us"
+description : "What is EasyCloudHost.de doing?"
 layout : "about"
 draft : false
 
 about_us_:
-  title: "Préstamos comerciales <br> para gastos diarios"
-  subtitle: "Acerca de Wallet"
+  title: "Unser Ziel ist es, Sie durch intelligente Lösungen bei der Skalierung zu unterstützen"
+  subtitle: "Über EasyServices von EasyCloudHost.de"
   image: "images/about/about-11.jpg"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  
-
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content: "Wir haben in der Vergangenheit viel zu viel Zeit mit mühsamen DevOp-Tasks verbracht, die sich leicht automatisieren lassen. So wurde die Idee der EasyServices bei EasyCloudHost.de geboren.
+  <br><br>
+  Ich, Justin Güse, bin der Gründer von EasyCloudHost.de und Datafortress.cloud. Nachdem ich bei der Porsche Holding im Bereich Innovation/Data Science gearbeitet habe, wo ich viele Projekte von Big Data bis Virtual Reality entwickelt habe (siehe Portfolio), habe ich mich entschlossen, mein eigenes Unternehmen zu gründen. Während meiner Zeit bei Porsche habe ich beobachtet, dass viele Agenturen oder Berater nicht das Hauptziel haben, die Bedürfnisse ihrer Kunden zu befriedigen, sondern vielmehr, wie sie die minimal benötigten Aufgaben in kürzester Zeit erledigen können."
 
   
 who_we_are:
-  title: "¿Quienes somos?"
-  lead: "Insight loan advisors is completely independent loan advising service and our directory of lenders gives you all the information lorem ipsums sitamets."
-  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consv peent esque urna. Ac eu fringilla intea dger egadv estas ut. Sed vulutate aenean nunc quis a urna morbi id vitae. Vulpuate nisl"
+  title: "Die große Geschichte beginnt mit einem großenartigen Team"
+  lead: "Justin ist ein freiberuflicher Data Engineer / Solution Architect, der an AWS- und Kubernetes-Projekten arbeitet,"
+  content: " wo er Kunden half, ihre Daten zu nutzen. Bei der Arbeit an diesen Projekten stellte er bald fest, dass sich viele Teile wiederholten, und programmierte eigene kleine Hilfsskripte und SAAS-Anwendungen, um sich das Leben zu erleichtern. Bald entdeckte er, dass seine Sammlung von Tools und Diensten in ein ganz neues Angebot verpackt werden könnte, um anderen Menschen zu helfen, die mit denselben Problemen zu kämpfen haben."
   
 what_we_offer:
-  title: "¿Lo que ofrecemos?"
-  lead: "Our loan sanction is one of the quicke with eas documentation and doorstep lorem ipsum serviceullam dolor sitisi."
+  title: "Was wir anbieten?"
+  lead: "Lösungen von Anfang bis Ende. Wir beraten nicht gerne und lassen die Aufgabe dann liegen. Bei uns erhalten Sie eine Komplettlösung. In unserem Angebot gehen wir auf jeden Teil separat ein, d.h. Sie können verschiedene Pakete auswählen und erhalten so volle Transparenz."
   content: "  
   
-  * Habit building in essential steps choose habit
+  * Volle Transparenz
 
-  * Get an overview of Habit Calendars Latest Posts
+  * Komplettlösungen, nicht nur Beratung
 
-  * Start building habit with Habitify on platform
+  * Die Mentalität, Dinge zu erledigen
   
   "
 
 
 ############# Feature ####################
 feature:
-- name: "Quick Decision"
+- name: "Analyse"
   icon: "fas fa-mouse-pointer"
-  content: "Begin the process when it is convenient for you"
+  content: "Wenn Sie mit uns zusammenarbeiten, analysieren wir zunächst Ihren Status quo. Was kann verbessert werden? Was ist bereits vorhanden?"
   
-- name: "Submit Your Info"
+- name: "Akzeptieren Sie unseren Vorschlag"
   icon: "fas fa-file-alt"
-  content: "Begin the process when it is convenient for you"
+  content: "Wir werden Ihnen verschiedene Lösungen separat vorschlagen. Das heißt, Sie können wählen, was Sie wollen und was warten kann."
   
-- name: "Funds To You"
+- name: "Schnelle Ergebnisse"
   icon: "fas fa-briefcase"
-  content: "Begin the process when it is convenient for you"
+  content: "Wir arbeiten gerne schnell. Sie bleiben über unsere Arbeit informiert, und wir machen uns sofort an die Arbeit."
   
 
 ############# Core Value ####################
 core_value:
-  title: "Nuestros valores mas importantes"
-  subtitle: "Values Wr Provide"
-  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consv allis quam aliquet integer eget magna ullam corper intesager peent esque urna. Sed vulutate aenean nunc quis a urna morbi id vitae. Vulpuate nisl 
-
-
-  sed morbi sit ut placerat eges aeftas et. Pellen tesque tristisque magnis augue gravida pulvinar placerat. Tellus massa pretra scelerisque leo. In volutpat arcu nunc nisl et, viverra faucisfbus egestas. In habitasse sagittis, convallis ut commodo amet."
+  title: "Unsere Kernwerte"
+  subtitle: "Werte, die wir leben"
+  content: "Sie sollten sich keine Gedanken über die Geschwindigkeit Ihrer Server oder die Begrenzung der Ressourcen machen müssen. Konzentrieren Sie sich auf das, was Ihr Unternehmen braucht, und überlassen Sie uns die Handhabung der Technologie. Wir sind Experten für das Hosting von Daten und Anwendungen gemäß den EU- und deutschen Vorschriften und können Bereitstellungen problemlos skalieren, indem wir entweder die öffentliche Cloud wie AWS oder ein privates Rechenzentrum mit Kubernetes nutzen."
   core_value_item:
-  - name: "Authentic"
-    content: "Lorem ipsum dolor sit aamet, ctetur adsipis cing elit. Lacaus"
+  - name: "Qualität"
+    content: "Nur die beste Qualität schafft ein Vertrauensverhältnis und entwickelt eine langfristige Zusammenarbeit."
     
-  - name: "Empathetic"
-    content: "Lorem ipsum dolor sit aamet, ctetur adsipis cing elit. Lacaus"
+  - name: "Geschwindigkeit"
+    content: "Wir verwenden eine Strategie, die als Rapid Prototyping bezeichnet wird. Dabei werden mehrere Meilensteine während der Entwicklung durchlaufen, um Ideen zu testen und ein Endprodukt zu vermeiden, das nicht Ihren Anforderungen entspricht."
     
-  - name: "All Improving"
-    content: "Lorem ipsum dolor sit aamet, ctetur adsipis cing elit. Lacaus"
+  - name: "Technologie"
+    content: "Um unsere Aufgabe zu erfüllen und die bestmögliche Beratung zu bieten, sind wir ständig auf der Suche nach den neuesten Technologien und setzen diese ein, um in der Branche führend zu bleiben."
     
-  - name: "User-Focused"
-    content: "Lorem ipsum dolor sit aamet, ctetur adsipis cing elit. Lacaus"
+  - name: "Datengetrieben"
+    content: "Niemand sollte 'raten', was funktionieren kann oder nicht. Wir verfolgen unsere Prozesse ständig und passen sie anhand von Daten an."
 
 
 
 ################# Team ###################
 team:
-  title: "People Behind Us"
-  subtitle: "Questions You Have"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing . egestas <br> cursus pellentesque dignissim dui, congue. Vel etiam ut"
+  title: "Ausgewählte Teammitglieder"
+  subtitle: "Experten für alle Themen"
+  description: "Wir haben Experten für jedes Thema."
 
   team_member:
-  - name: "Scarlet Pena"
-    designation: "Instructor"
+  - name: "Justin Güse"
+    designation: "CEO & Co-Founder"
+    image: "images/team/justin-circle.jpg"
+    description: "Liebt Daten in Kubernetes & AWS, spielt Gitarre und genießt Sommertage am See."
+    social:
+      - name: "Github"
+        icon: "fab fa-github"
+        link: "https://github.com/JustinGuese"
+      - name: "Linkedin"
+        icon: "fab fa-linkedin"
+        link: "https://www.linkedin.com/in/justin-guese/"
+
+  - name: "Ralph Edwards"
+    designation: "Frontend Developer"
+    image: "images/team/04.webp"
+    description: "React Geek, liebt Web3 und Wandern."
+    image: "images/about/team-4.jpg"
+    social:
+      - name: "facebook"
+        icon: "fab fa-facebook"
+        link: "#"
+        
+      - name: "twitter"
+        icon: "fab fa-twitter"
+        link: "#"
+        
+      - name: "instagram"
+        icon: "fab fa-instagram"
+        link: "#"
+
+  - name: "Kathryn Murphy"
+    designation: "Support & PM"
+    description: "Hilft bei der Beantwortung von Fragen und kümmert sich um Aufgaben des Projektmanagements. Liebt ihren Hund und Spaziergänge im Wald."
     image: "images/about/team-1.jpg"
     social:
-    - name: "facebook"
-      icon: "fab fa-facebook"
-      link: "#"
-      
-    - name: "twitter"
-      icon: "fab fa-twitter"
-      link: "#"
-      
-    - name: "instagram"
-      icon: "fab fa-instagram"
-      link: "#"
-      
-  - name: "Claire Simmmons"
-    designation: "Founder"
-    image: "images/about/team-2.jpg"
-    social:
-    - name: "facebook"
-      icon: "fab fa-facebook"
-      link: "#"
-      
-    - name: "twitter"
-      icon: "fab fa-twitter"
-      link: "#"
-      
-    - name: "instagram"
-      icon: "fab fa-instagram"
-      link: "#"
-
-
-  - name: "Leslie Pena"
-    designation: "Director"
-    image: "images/about/team-3.jpg"
-    social:
-    - name: "facebook"
-      icon: "fab fa-facebook"
-      link: "#"
-      
-    - name: "twitter"
-      icon: "fab fa-twitter"
-      link: "#"
-      
-    - name: "instagram"
-      icon: "fab fa-instagram"
-      link: "#"
-
-
-  - name: "Scarlet Pena"
-    designation: "Instructor"
-    image: "images/about/team-1.jpg"
-    social:
-    - name: "facebook"
-      icon: "fab fa-facebook"
-      link: "#"
-      
-    - name: "twitter"
-      icon: "fab fa-twitter"
-      link: "#"
-      
-    - name: "instagram"
-      icon: "fab fa-instagram"
-      link: "#"
+      - name: "facebook"
+        icon: "fab fa-facebook"
+        link: "#"
+        
+      - name: "instagram"
+        icon: "fab fa-instagram"
+        link: "#"
 
 
 ---
