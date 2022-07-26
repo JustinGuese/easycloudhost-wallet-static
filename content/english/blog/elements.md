@@ -14,7 +14,7 @@ description: "This is meta description"
 categories: ["photography"]
 tags: ["photo","image"]
 icon: "fas fa-business-time"
-draft: false
+draft: true
 ---
 
 
