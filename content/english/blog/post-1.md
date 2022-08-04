@@ -21,6 +21,10 @@ Kubernetes can be complex, but once you get to know the basics, it is a wonderfu
 Once you have deployed your first services, there are common pitfalls in terms of security that you might miss.
 This article touches on the Top 7 misconceptions.
 
+{{< notice "tip" >}}
+  Grab your [free PDF Download of this article, including a free Checklist!](https://shop.easycloudhost.de/product/top-7-downlaods-etc/)!
+{{< /notice >}}
+
 ## 1. Kubernetes Namespaces isolate containers
 
 Thinking that namespaces isolate containers is a common misconception. They are only showing up in that specific namespace, but are not isolated from each other. Let us say you are running a postgresql deployment in the "default" namespace as service name "psql-deployment". If you start up another container, you are able to connect to it connecting to "psql-deployment:5432". Now, if you move your second deployment to another namespace, you will not be able to connect anymore. 
@@ -71,7 +75,7 @@ Still, the secrets remain "pure" in the cluster itself, which is another reason 
 This brings us to our next point. When creating new clusters your provider usually gives you one Kubeconfig file. This is the admin file, and you can do anything with it. Even though it is tempting, you should never use it except for creating other users and permissions. That way, if one user and role for a specific app or namespace gets compromised, it has no control over the others. The solution is called RBAC (role based access control).
 
 {{< notice "note" >}}
-  Number 6 is only available in our free PDF Download of this article!
+  Number 6 is only available in our [free PDF Download of this article!](https://shop.easycloudhost.de/product/top-7-downlaods-etc/)!
 {{< /notice >}}
 
 ## 7. Ignoring resource limits
