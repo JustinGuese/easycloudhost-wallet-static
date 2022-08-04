@@ -4,6 +4,7 @@ banner:
   enable: true
   title : "Run your apps without worrying about compliance or servers"
   subtitle : "Our EasyServices are allowing you to focus on what is important for your business. Leave speed and compliance to us, and focus on gaining more revenue with your core-business."
+  videoMute: "Remember to unmute the video!"
   character_image: "images/banner/character.webp"
   lamp_image: "images/banner/server.webp"
   cube_image: "images/banner/shield.webp"
