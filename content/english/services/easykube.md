@@ -31,11 +31,39 @@ Are you looking for a way to host your data and applications in a secure, privat
 </center>
 <hr>
 
+0. [EasyKube vs other Distributions](/services/easykube/#what-is-the-advantage-of-using-easykube-over-other-kubernetes-products)
 1. [The advantages of a custom private cloud](/services/easykube/#the-advantages-of-a-custom-private-cloud)
 2. [Top 5 reasons to use a private cloud over the public cloud](/services/easykube/#top-5-reasons-to-use-a-private-cloud-over-the-public-cloud)
 3. [The simplicity of EasyKube](/services/easykube/#the-simplicity-of-easykube)
 4. [EasyKube in AWS/Google Cloud/Azure](/services/easykube/#and-what-if-i-want-to-host-in-the-public-cloud)
 5. [Pricing](/services/easykube/#easykube-pricing-overview)
+
+## What is the advantage of using EasyKube over other Kubernetes products?
+
+<div style="overflow-x:auto;">
+
+| <div style="width:150px">Feature</div> | Default Kubernetes | AWS/Azure Kubernetes | EasyKube |
+| --- | --- | --- | --- |
+| Standard K8s | &#x2705; | &#x2705; | &#x2705; |
+| Load Balancers | &#x274C; | &#x2705; | &#x2705; |
+| Easy Node Scaling | &#x274C; | &#x2705; | &#x2705; |
+| Volumes ready to use | &#x274C; |  &#x2705; | &#x2705; |
+| Domain based routing | &#x274C; |  &#x274C; | &#x2705; |
+| Building Blocks [1] | &#x274C; |  &#x274C; | &#x2705; |
+| DSGVO & HIPAA compliance | &#x274C; |  &#x274C; | &#x2705; |
+| "Plug & Play" | &#x274C; |  &#x274C; | &#x2705; |
+
+</div>
+
+{{< notice "info" >}}
+  [1] Building blocks are ready to use Deployment templates featuring Autoscaling, Security and Persistence
+{{< /notice >}}
+
+<hr>
+<center>
+    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Demo to see EasyKube in action!</button></a>
+</center>
+<hr>
 
 ## The advantages of a custom private cloud
 
@@ -262,6 +290,58 @@ That is of course possible as well. Just [contact us](/contact) to get an indivi
 
 ## EasyKube Pricing overview
 
+Pricing for EasyKube is offered in two versions: 
+
+1. The **pay-as-you-go pricing**, in which you pay per usage, depending on the number of nodes, volumes and load balancers, and 
+2. The **package pricing**, which includes improved discounts and additional functionality, but are fixed to 3,6 and 12 months durations.
+
+{{< notice "tip" >}}
+  **Package pricing** is easier, as it includes Backups, Multi-AZ, Domain based routing and more by default.
+{{< /notice >}}
+
+
+
+### 1. Pay as you go pricing
+
+{{< notice "info" >}}
+  To achieve resistance, you will need **at least 3** servers, but 1 server works as well to just try things out.
+{{< /notice >}}
+
+<div style="overflow-x:auto;">
+
+| <div style="width:150px">Feature</div>   | Node XS   | Node S    | Node M  | Node L |
+| ------------- |:-------------:| -----:| -----:| -----:| 
+| Free subdomain of easycloudhost.de | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
+| Shared cluster | &#x2705; | &#x274C; | &#x274C; | &#x274C; |
+| 14 days free trial |  &#x2705; | &#x274C; | &#x274C; | &#x274C; |
+| vCPU | 1 | 3 | 4 | 8 | 16 | 
+| RAM GB | 1 | 4 | 8 | 16 | 32 |
+| Monthly payment | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=pay-as-you-go&attribute_size=XS" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=pay-as-you-go&attribute_size=S" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">21.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=pay-as-you-go&attribute_size=M" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">42.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=pay-as-you-go&attribute_size=L" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">79.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=pay-as-you-go&attribute_size=XL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">179.99€/m</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
+| Comparable price [4] | 73$/m + nodes = 103$/m | 153$/m | 243$/m  | 893$/m | 21.000$/m | custom |
+ 
+**Prices are automatically converted to your local currency on checkout**
+</div>
+
+{{< notice "info" >}}
+  [4] https://calculator.aws/#/addService/EKS
+{{< /notice >}}
+
+#### Additional charges
+
+| Feature | Price |
+| --- | --- |
+| Volumes [2] | 1.50€/m per 10GB |
+| Load Balancer | 19.99€/m per piece |
+| Traffic | unlimited |
+
+{{< notice "info" >}}
+  [2] 10 GB Minimum, 10 TB Maximum per single volume. Calculated in 10 GB increments
+{{< /notice >}}
+
+
+### 2. Package pricing
+
+
 
 <div style="overflow-x:auto;">
 
@@ -284,8 +364,8 @@ That is of course possible as well. Just [contact us](/contact) to get an indivi
 | Nr nodes | 1 | 1 | 3 | 5 | 10 | 100 | custom |
 | vCPU total | 1 | 3 | 9 | 15 | 30 | 300 | custom |
 | RAM GB total | 1 | 3 | 9 | 20 | 40 | 400 | custom |
-| Monthly payment | <a href="https://buy.stripe.com/7sI7uVbJa4gU784dR9" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">12.99€/m</button></a> | <a href="https://buy.stripe.com/6oEdTj8wY8xacsodRb" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">29.99€/m</button></a> | <a href="https://buy.stripe.com/cN28yZ00sdRu784dRd" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">79.99€/m</button></a> | <a href="https://buy.stripe.com/fZe3eF14w14IgIEfZm" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">149€/m</button></a> | <a href="https://buy.stripe.com/5kA02t8wY6p2gIE8wW" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">2,999€/m</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
-| **Yearly payment -33%** | <a href="https://buy.stripe.com/14k16x8wYfZC9gccN4" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9€/m</button></a> | <a href="https://buy.stripe.com/7sIbLbbJa14IcsoaEY" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">19€/m</button></a> | <a href="https://buy.stripe.com/9AQ3eF3cE3cQbokeVg" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">55.75€/m</button></a> | <a href="https://buy.stripe.com/bIY3eF8wYcNq4ZW6oN" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">104.20€/m</button></a> | <a href="https://buy.stripe.com/28o7uV6oQcNqakg5kL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">2,100€/m</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
+| Monthly payment | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=package+pricing&attribute_size=XS" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">12.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=package+pricing&attribute_size=S" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">29.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=package+pricing&attribute_size=M" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">79.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=package+pricing&attribute_size=L" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">149€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=package+pricing&attribute_size=XL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">2,999€/m</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
+<!-- | **Yearly payment -33%** | <a href="https://buy.stripe.com/14k16x8wYfZC9gccN4" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9€/m</button></a> | <a href="https://buy.stripe.com/7sIbLbbJa14IcsoaEY" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">19€/m</button></a> | <a href="https://buy.stripe.com/9AQ3eF3cE3cQbokeVg" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">55.75€/m</button></a> | <a href="https://buy.stripe.com/bIY3eF8wYcNq4ZW6oN" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">104.20€/m</button></a> | <a href="https://buy.stripe.com/28o7uV6oQcNqakg5kL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">2,100€/m</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> | -->
 | Comparable price [4] | 73$/m + nodes = 103$/m | 153$/m | 243$/m  | 893$/m | 21.000$/m | custom |
  
 **We can offer Backups and everything for smaller packages as well, choose "custom" to get an individual offer**
@@ -300,6 +380,8 @@ That is of course possible as well. Just [contact us](/contact) to get an indivi
 {{< notice "info" >}}
   [4] https://calculator.aws/#/addService/EKS
 {{< /notice >}}
+
+
 
 
 <hr>
