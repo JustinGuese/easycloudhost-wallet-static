@@ -155,44 +155,6 @@ Now that we know that our websites will load super quick, and our revenues will 
 
 No. As EasyHost is up to a 1000x lighter on the server you will save a lot of money on hosting. 
 
-<div style="overflow-x:auto;">
-
-| <div style="width:150px">Feature</div>     | EasyHost Static           | EasyHost CMS  | EasyHost Shop | Custom |
-| ------------- |:-------------:| -----:| -----:| -----:|
-| Hosting | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| Lightning Speed | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| SSL/HTTPS (letsencrypt) | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| Custom Domain possible | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| Host your own HTML | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| 1 TB traffic / m | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| CMS [1] | &#x274C; | &#x2705; | &#x2705; | &#x2705; |
-| Conversion included [2] | &#x274C; | &#x274C; | &#x274C; | &#x2705; |
-| Custom Domain included [3] | &#x274C; | &#x274C; | &#x274C; | &#x2705; |
-| Uptime guarantee | 99.9% | 99.5% | 99% | &#x2705; |
-| Support | extra | extra | extra | &#x2705; |
-| US hosted Pricing | <a href="https://buy.stripe.com/3csdTjcNe28M9gc7sx" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">0.99€/m</button></a> | <a href="https://buy.stripe.com/28obLbaF66p2bokdQT" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">4.99€/m</button></a> | <a href="https://buy.stripe.com/6oE6qR6oQ7t69gceUV" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">19.99€/m</button></a> | <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
-| DE hosted Pricing | <a href="https://buy.stripe.com/cN29D3aF63cQbok7sw" target="_blank"><button type="submit" class="input-group-text btn btn-secondary rounded">2.99€/m</button></a> | <a href="https://buy.stripe.com/aEU2aB00s7t6bok4gi" target="_blank"><button type="submit" class="input-group-text btn btn-secondary     rounded">9.99€/m</button></a> | <a href="https://buy.stripe.com/7sI3eF14w14I2ROfYY" target="_blank"><button type="submit" class="input-group-text btn btn-secondary rounded">39.99€/m</button></a> | <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |
-| Comparable price [4] | 20$/m + traffic | 40$/m + traffic | 80$/m + traffic | |
-
-
-**Prices are automatically converted to your local currency on checkout**
-</div>
-
-{{< notice "info" >}}
-  [1] A CMS allows you to edit the content yourself in an easy web-interface (content-management-system)
-{{< /notice >}}
-
-{{< notice "info" >}}
-  [2] If you do not want to convert your site yourself we can help you with that. [Contact us](/contact/)
-{{< /notice >}}
-
-{{< notice "info" >}}
-  [3] Migrate your existing domain or buy one from us starting at 19.99€/year. [Contact us](/contact/)
-{{< /notice >}}
-
-{{< notice "info" >}}
-  [4] Comparable speed with an AWS Lightsail WordPress instance, excluding traffic. Can not really be compared as the technologies are totally different, but to get an estimation.
-{{< /notice >}}
 
 <hr>
 <center>
