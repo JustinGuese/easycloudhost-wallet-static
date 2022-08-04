@@ -29,7 +29,7 @@ What if there could be a way to **"just run code" instead of worrying about serv
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Get Started for free!</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Get Started for free!</button></a>
 </center>
 <hr>
 
@@ -85,7 +85,7 @@ EasyFAAS reduces time to market, and let's your programmers focus on what it imp
 
 {{< notice "tip" >}}
 Did you know that you can run one function per month for free? 
-[Claim your free function](/contact)
+[Claim your free function](https://shop.easycloudhost.de/contact/)
 {{< /notice >}}
 
 To achieve this EasyFAAS currently supports two functions:
@@ -162,12 +162,12 @@ Example applications for the managed MongoDB are:
 ## 1. Getting started
 
 {{< notice "note" >}}
-  EasyFAAS currently only supports **Python**, but we have Node, React and others already implemented. [Tell us about your code preferences](/contact) and we might be able to get it working.
+  EasyFAAS currently only supports **Python**, but we have Node, React and others already implemented. [Tell us about your code preferences](https://shop.easycloudhost.de/contact/) and we might be able to get it working.
 {{< /notice >}}
 
 ### 1.1 The main dashboard
 
-Head over to [/contact](/contact) and register or login.
+Head over to [https://shop.easycloudhost.de/contact/](https://shop.easycloudhost.de/contact/) and register or login.
 
 <center>
     <img src="/images/tutorial/easyfaas/maindashboard.png" style="width:50%" alt="Easyfaas main dashboard">
@@ -443,7 +443,7 @@ If you function is not responsive you will see the reason why in here.
 
 ##### Function Detail Page: Metrics
 
-Metrics show you how much of the resources your function is using. If you require more "power", maybe [EasyHost](/services/easyhost) or [EasyScale](/services/easyscale) is something for you. Otherwise just [contact us](/contact).
+Metrics show you how much of the resources your function is using. If you require more "power", maybe [EasyHost](/services/easyhost) or [EasyScale](/services/easyscale) is something for you. Otherwise just [contact us](https://shop.easycloudhost.de/contact/).
 
 <img loading="lazy" src="/images/tutorial/easyfaas/function-metrics.png" alt="EasyFAAS Metrics">
 
@@ -467,5 +467,5 @@ No hidden fees, no nothing. In future updates we will even include **autoscaling
 Billing is done via Stripe, a secure and reliable payment provider. 
 
 <center>
-    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Get Started for free!</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Get Started for free!</button></a>
 </center>

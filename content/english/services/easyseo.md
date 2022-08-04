@@ -39,7 +39,7 @@ This is where SEO comes into play.
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-min consultation on how EasySEO can work for you</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-min consultation on how EasySEO can work for you</button></a>
 </center>
 <hr>
 
@@ -104,7 +104,7 @@ Our SEO generated content can be divided into three types:
 2. **Mid quality content**, good for subpages, landing pages of smaller products, product descriptions etc.
 3. **Low quality content**, good for blod posts, hidden pages like categories, content below product descriptions etc.
 
-We are also helping you with the on-page SEO optimization, let us [dicuss this in a custom call](/contact)
+We are also helping you with the on-page SEO optimization, let us [dicuss this in a custom call](https://shop.easycloudhost.de/contact/)
 
 <div style="overflow-x:auto;">
 
@@ -113,8 +113,8 @@ We are also helping you with the on-page SEO optimization, let us [dicuss this i
 | Keyword research | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
 | Ideal content structure | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
 | Example | <a href="https://towardsdatascience.com/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way-de3b7623ea4a" target="_blank">High-Quality</a> | <a href="https://homeofficeswag.de/pages/10-tips-to-reduce-neck-and-back-pain-when-working-at-office-or-at-home" target="_blank">Mid-Quality</a> | <a href="https://defigamez.com/2022/05/02/wie-wird-sandbox-die-gaming-landschaft-verandern" target="_blank">Low-Quality</a>
-| English - price per 1000 words | <a href="https://shop.easycloudhost.de/product/easyseo-boost-your-seo-ranking/?attribute_content-language=English&attribute_quality=High" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">50€</button></a> | <a href="https://shop.easycloudhost.de/product/easyseo-boost-your-seo-ranking/?attribute_content-language=English&attribute_quality=Medium" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">30€</button></a> | <a href="https://shop.easycloudhost.de/product/easyseo-boost-your-seo-ranking/?attribute_content-language=English&attribute_quality=Low" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">10€</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
-| German - price per 1000 words | <a href="https://shop.easycloudhost.de/product/easyseo-boost-your-seo-ranking/?attribute_content-language=German&attribute_quality=High" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">90€</button></a> | <a href="https://shop.easycloudhost.de/product/easyseo-boost-your-seo-ranking/?attribute_content-language=German&attribute_quality=Medium" target="_blank"><button type="link" class="input-group-text btn btn-secondary     rounded">65€</button></a> | <a href="https://shop.easycloudhost.de/product/easyseo-boost-your-seo-ranking/?attribute_content-language=German&attribute_quality=Low" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">20€</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |
+| English - price per 1000 words | <a href="https://shop.easycloudhost.de/product/easyseo-boost-your-seo-ranking/?attribute_content-language=English&attribute_quality=High" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">50€</button></a> | <a href="https://shop.easycloudhost.de/product/easyseo-boost-your-seo-ranking/?attribute_content-language=English&attribute_quality=Medium" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">30€</button></a> | <a href="https://shop.easycloudhost.de/product/easyseo-boost-your-seo-ranking/?attribute_content-language=English&attribute_quality=Low" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">10€</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
+| German - price per 1000 words | <a href="https://shop.easycloudhost.de/product/easyseo-boost-your-seo-ranking/?attribute_content-language=German&attribute_quality=High" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">90€</button></a> | <a href="https://shop.easycloudhost.de/product/easyseo-boost-your-seo-ranking/?attribute_content-language=German&attribute_quality=Medium" target="_blank"><button type="link" class="input-group-text btn btn-secondary     rounded">65€</button></a> | <a href="https://shop.easycloudhost.de/product/easyseo-boost-your-seo-ranking/?attribute_content-language=German&attribute_quality=Low" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">20€</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |
 
 If you need more words just select the multiple of 1,000 words. E.g. if you need 5,000 words, select "5" as quantity
 
@@ -123,6 +123,6 @@ If you need more words just select the multiple of 1,000 words. E.g. if you need
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-min consultation on how EasySEO can work for you</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-min consultation on how EasySEO can work for you</button></a>
 </center>
 <hr>

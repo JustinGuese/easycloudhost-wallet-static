@@ -26,7 +26,7 @@ You just want your databases to run, not caring about scaling, availability or d
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation on EasyDB</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation on EasyDB</button></a>
 </center>
 <hr>
 
@@ -63,7 +63,7 @@ And on top of that EasyDB is giving you:
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Demo to see EasyDB in action!</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Demo to see EasyDB in action!</button></a>
 </center>
 <hr>
 
@@ -90,7 +90,7 @@ Pricing for both MongoDB and Postgresql
 | Nr nodes | 1 | 1 | 3 | 3 | 5 | 10 | custom |
 | vCPU total | 1 | 3 | 9 | 15 | 30 | 300 | custom |
 | RAM GB total | 1 | 3 | 9 | 20 | 40 | 400 | custom |
-| Monthly payment | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=XS" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">12.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=S" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">29.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=M" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">99.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=L" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">199.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=XL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">4,999€/m</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
+| Monthly payment | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=XS" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">12.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=S" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">29.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=M" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">99.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=L" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">199.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=XL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">4,999€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
 | Comparable price [4] | 73$/m + nodes = 103$/m | 153$/m | 243$/m  | 893$/m | 21.000$/m | custom |
  
 **We can offer Backups and everything for smaller packages as well, choose "custom" to get an individual offer**
@@ -98,7 +98,7 @@ Pricing for both MongoDB and Postgresql
 **Prices are automatically converted to your local currency on checkout**
 </div>
 
-<!-- | **Yearly payment -33%** | <a href="https://buy.stripe.com/14k16x8wYfZC9gccN4" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9€/m</button></a> | <a href="https://buy.stripe.com/7sIbLbbJa14IcsoaEY" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">19€/m</button></a> | <a href="https://buy.stripe.com/9AQ3eF3cE3cQbokeVg" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">55.75€/m</button></a> | <a href="https://buy.stripe.com/bIY3eF8wYcNq4ZW6oN" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">104.20€/m</button></a> | <a href="https://buy.stripe.com/28o7uV6oQcNqakg5kL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">2,100€/m</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> | -->
+<!-- | **Yearly payment -33%** | <a href="https://buy.stripe.com/14k16x8wYfZC9gccN4" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9€/m</button></a> | <a href="https://buy.stripe.com/7sIbLbbJa14IcsoaEY" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">19€/m</button></a> | <a href="https://buy.stripe.com/9AQ3eF3cE3cQbokeVg" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">55.75€/m</button></a> | <a href="https://buy.stripe.com/bIY3eF8wYcNq4ZW6oN" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">104.20€/m</button></a> | <a href="https://buy.stripe.com/28o7uV6oQcNqakg5kL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">2,100€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> | -->
 
 {{< notice "info" >}}
   [2] 10 GB Minimum, 10 TB Maximum per single volume
@@ -111,6 +111,6 @@ Pricing for both MongoDB and Postgresql
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Demo to see EasyDB in action!</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Demo to see EasyDB in action!</button></a>
 </center>
 <hr>

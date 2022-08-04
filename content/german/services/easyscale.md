@@ -27,7 +27,7 @@ Außerdem haben Sie vielleicht eine Anwendung erstellt, die die Last einiger Ben
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyScale</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyScale</button></a>
 </center>
 <hr>
 
@@ -95,6 +95,6 @@ Unser üblicher Arbeitsablauf sieht wie folgt aus:
 7. Wechsel zu **horizontalen autoskalierbaren Datenbanken**, um Kosten zu senken und die Geschwindigkeit zu erhöhen 
 
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung, wie wir Ihre Anwendung skalieren können</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung, wie wir Ihre Anwendung skalieren können</button></a>
 </center>
 <hr>

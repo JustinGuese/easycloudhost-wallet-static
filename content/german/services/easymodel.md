@@ -23,10 +23,10 @@ Wir helfen Ihnen dabei, Ihre Machine Learning-Modelle unter Einhaltung der US-am
 
 Behalten Sie Ihre Daten auf Ihren Servern und profitieren Sie von verbesserten Antwort- und Ladezeiten durch automatische Skalierung. 
 
-[Besuchen Sie EasyScale](/de/services/easyscale/), um herauszufinden, wie wir das erreichen, oder [kontaktieren Sie uns](/contact) gleich, um Ihr Projekt mit uns zu besprechen.
+[Besuchen Sie EasyScale](/de/services/easyscale/), um herauszufinden, wie wir das erreichen, oder [kontaktieren Sie uns](https://shop.easycloudhost.de/contact/) gleich, um Ihr Projekt mit uns zu besprechen.
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung, wie wir Ihr Machine Learning Model bereitstellen können</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung, wie wir Ihr Machine Learning Model bereitstellen können</button></a>
 </center>
 <hr>

@@ -29,7 +29,7 @@ Bereiten Ihnen Ihre Websites und Anwendungen Kopfschmerzen? Ständig stürzen si
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung darüber, wie EasyHost Ihnen helfen kann</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung darüber, wie EasyHost Ihnen helfen kann</button></a>
 </center>
 <hr>
 
@@ -125,7 +125,7 @@ Nein, natürlich nicht. Sie können immer noch ein CMS (Content Management Syste
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung darüber, wie EasyHost Ihnen helfen kann</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung darüber, wie EasyHost Ihnen helfen kann</button></a>
 </center>
 <hr>
 
@@ -169,8 +169,8 @@ Nein. Da EasyHost den Server bis zu 1000x entlastet, werden Sie eine Menge Geld 
 | Eigene Domain inkludiert [3] | &#x274C; | &#x274C; | &#x274C; | &#x2705; |
 | Uptime Garantie | 99.9% | 99.5% | 99% | &#x2705; |
 | Support | extra | extra | extra | &#x2705; |
-| Preise: US Hosting | <a href="https://buy.stripe.com/3csdTjcNe28M9gc7sx" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">0.99€/m</button></a> | <a href="https://buy.stripe.com/28obLbaF66p2bokdQT" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">4.99€/m</button></a> | <a href="https://buy.stripe.com/6oE6qR6oQ7t69gceUV" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">19.99€/m</button></a> | <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
-| Preise: DE Hosting | <a href="https://buy.stripe.com/cN29D3aF63cQbok7sw" target="_blank"><button type="submit" class="input-group-text btn btn-secondary rounded">2.99€/m</button></a> | <a href="https://buy.stripe.com/aEU2aB00s7t6bok4gi" target="_blank"><button type="submit" class="input-group-text btn btn-secondary     rounded">9.99€/m</button></a> | <a href="https://buy.stripe.com/7sI3eF14w14I2ROfYY" target="_blank"><button type="submit" class="input-group-text btn btn-secondary rounded">39.99€/m</button></a> | <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |
+| Preise: US Hosting | <a href="https://buy.stripe.com/3csdTjcNe28M9gc7sx" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">0.99€/m</button></a> | <a href="https://buy.stripe.com/28obLbaF66p2bokdQT" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">4.99€/m</button></a> | <a href="https://buy.stripe.com/6oE6qR6oQ7t69gceUV" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">19.99€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
+| Preise: DE Hosting | <a href="https://buy.stripe.com/cN29D3aF63cQbok7sw" target="_blank"><button type="submit" class="input-group-text btn btn-secondary rounded">2.99€/m</button></a> | <a href="https://buy.stripe.com/aEU2aB00s7t6bok4gi" target="_blank"><button type="submit" class="input-group-text btn btn-secondary     rounded">9.99€/m</button></a> | <a href="https://buy.stripe.com/7sI3eF14w14I2ROfYY" target="_blank"><button type="submit" class="input-group-text btn btn-secondary rounded">39.99€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |
 | Vergleichbare Preise [4] | 20$/m + traffic | 40$/m + traffic | 80$/m + traffic | |
 
 
@@ -182,11 +182,11 @@ Nein. Da EasyHost den Server bis zu 1000x entlastet, werden Sie eine Menge Geld 
 {{< /notice >}}
 
 {{< notice "info" >}}
-  [2] Wenn Sie Ihre Website nicht selbst konvertieren möchten, können wir Ihnen dabei helfen. [Kontakt](/contact/)
+  [2] Wenn Sie Ihre Website nicht selbst konvertieren möchten, können wir Ihnen dabei helfen. [Kontakt](https://shop.easycloudhost.dehttps://shop.easycloudhost.de/contact//)
 {{< /notice >}}
 
 {{< notice "info" >}}
-  [3] Migrieren Sie Ihre bestehende Domain oder kaufen Sie eine bei uns ab 19,99€/Jahr. [Kontaktieren Sie uns](/contact/)
+  [3] Migrieren Sie Ihre bestehende Domain oder kaufen Sie eine bei uns ab 19,99€/Jahr. [Kontaktieren Sie uns](https://shop.easycloudhost.dehttps://shop.easycloudhost.de/contact//)
 {{< /notice >}}
 
 {{< notice "info" >}}
@@ -195,6 +195,6 @@ Nein. Da EasyHost den Server bis zu 1000x entlastet, werden Sie eine Menge Geld 
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung darüber, wie EasyHost Ihnen helfen kann</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung darüber, wie EasyHost Ihnen helfen kann</button></a>
 </center>
 <hr>

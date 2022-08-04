@@ -23,11 +23,11 @@ We are helping you to get your Machine Learning Models up and running, all accor
 
 Keep your data on your servers, and profit from increased response and load times using autoscaling. 
 
-[Head over to EasyScale](/services/easyscale/) to find out how we achieve that, or [contact us](/contact) right away to discuss your project with us.
+[Head over to EasyScale](/services/easyscale/) to find out how we achieve that, or [contact us](https://shop.easycloudhost.de/contact/) right away to discuss your project with us.
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation of how we can deploy your Machine Learning Model</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation of how we can deploy your Machine Learning Model</button></a>
 </center>
 <hr>
 
@@ -58,6 +58,6 @@ Keep your data on your servers, and profit from increased response and load time
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation of how we can deploy your Machine Learning Model</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation of how we can deploy your Machine Learning Model</button></a>
 </center>
 <hr>

@@ -34,10 +34,10 @@ Mit einem breiten Wissen über Cloud-, Daten- und DevOp-Technologien sind wir in
 - [Portfolio](https://datafortress.cloud/project/)
 - [Stundensätze](/de/pricing) 
 
-Buchen Sie eine [kostenlose 15-minütige Beratung](/contact) um ein individuelles Angebot zu erhalten.
+Buchen Sie eine [kostenlose 15-minütige Beratung](https://shop.easycloudhost.de/contact/) um ein individuelles Angebot zu erhalten.
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung</button></a>
 </center>
 <hr>

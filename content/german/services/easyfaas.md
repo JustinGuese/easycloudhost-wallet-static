@@ -159,7 +159,7 @@ Anwendungsbeispiele für die verwaltete MongoDB sind:
 ## 1. Erste Schritte
 
 {{< notice "note" >}}
-  EasyFAAS unterstützt derzeit nur **Python**, aber wir haben Node, React und andere bereits implementiert. [Erzählen Sie uns von Ihren Code-Vorlieben](/de/contact) und wir können es vielleicht zum Laufen bringen.
+  EasyFAAS unterstützt derzeit nur **Python**, aber wir haben Node, React und andere bereits implementiert. [Erzählen Sie uns von Ihren Code-Vorlieben](/dehttps://shop.easycloudhost.de/contact/) und wir können es vielleicht zum Laufen bringen.
 {{< /notice >}}
 
 ### 1.1 Das Haupt-Dashboard
@@ -436,7 +436,7 @@ Wenn Ihre Funktion nicht ansprechbar ist, sehen Sie hier den Grund dafür.
 
 ##### Funktionsdetailseite: Metriken
 
-Metriken zeigen Ihnen, wie viele Ressourcen Ihre Funktion verbraucht. Wenn Sie mehr "Power" benötigen, ist vielleicht [EasyHost](/de/services/easyhost) oder [EasyScale](/de/services/easyscale) etwas für Sie. Ansonsten einfach [Kontakt](/contact).
+Metriken zeigen Ihnen, wie viele Ressourcen Ihre Funktion verbraucht. Wenn Sie mehr "Power" benötigen, ist vielleicht [EasyHost](/de/services/easyhost) oder [EasyScale](/de/services/easyscale) etwas für Sie. Ansonsten einfach [Kontakt](https://shop.easycloudhost.de/contact/).
 
 <img loading="lazy" src="/images/tutorial/easyfaas/function-metrics.png" alt="EasyFAAS Metrics">
 

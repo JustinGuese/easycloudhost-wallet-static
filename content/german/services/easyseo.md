@@ -39,7 +39,7 @@ An dieser Stelle kommt SEO ins Spiel.
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung darüber, wie EasySEO für Sie arbeiten kann</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung darüber, wie EasySEO für Sie arbeiten kann</button></a>
 </center>
 <hr>
 
@@ -104,7 +104,7 @@ Unsere SEO-generierten Inhalte können in drei Typen unterteilt werden:
 2. **Mittelqualitativer Inhalt**, gut für Unterseiten, Landingpages kleinerer Produkte, Produktbeschreibungen usw.
 3. **Niedrigwertiger Inhalt**, gut für Blogeinträge, versteckte Seiten wie Kategorien, Inhalte unterhalb von Produktbeschreibungen etc.
 
-Wir helfen Ihnen auch bei der On-Page-SEO-Optimierung, lassen Sie uns [dies in einem persönlichen Gespräch](/contact) besprechen.
+Wir helfen Ihnen auch bei der On-Page-SEO-Optimierung, lassen Sie uns [dies in einem persönlichen Gespräch](https://shop.easycloudhost.de/contact/) besprechen.
 
 <div style="overflow-x:auto;">
 
@@ -113,8 +113,8 @@ Wir helfen Ihnen auch bei der On-Page-SEO-Optimierung, lassen Sie uns [dies in e
 | Keyword research | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
 | Ideal content structure | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
 | Example | <a href="https://towardsdatascience.com/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way-de3b7623ea4a" target="_blank">High-Quality</a> | <a href="https://homeofficeswag.de/pages/10-tips-to-reduce-neck-and-back-pain-when-working-at-office-or-at-home" target="_blank">Mid-Quality</a> | <a href="https://defigamez.com/2022/05/02/wie-wird-sandbox-die-gaming-landschaft-verandern" target="_blank">Low-Quality</a>
-| Englisch - Preis per 1000 Wörter | <a href="https://buy.stripe.com/fZecPfaF6eVy2RO14l" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">50€</button></a> | <a href="https://buy.stripe.com/eVaeXneVm4gUfEA6oE" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">30€</button></a> | <a href="https://buy.stripe.com/bIY8yZ28A7t62ROdR5" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">10€</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
-| Deutsch - Preis per 1000 Wörter | <a href="https://buy.stripe.com/fZe6qR8wY7t60JGbIW" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">90€</button></a> | <a href="https://buy.stripe.com/bIYg1r14w7t6fEA5kx" target="_blank"><button type="link" class="input-group-text btn btn-secondary     rounded">65€</button></a> | <a href="https://buy.stripe.com/dR67uV8wY9BefEA6oA" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">20€</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |
+| Englisch - Preis per 1000 Wörter | <a href="https://buy.stripe.com/fZecPfaF6eVy2RO14l" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">50€</button></a> | <a href="https://buy.stripe.com/eVaeXneVm4gUfEA6oE" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">30€</button></a> | <a href="https://buy.stripe.com/bIY8yZ28A7t62ROdR5" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">10€</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
+| Deutsch - Preis per 1000 Wörter | <a href="https://buy.stripe.com/fZe6qR8wY7t60JGbIW" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">90€</button></a> | <a href="https://buy.stripe.com/bIYg1r14w7t6fEA5kx" target="_blank"><button type="link" class="input-group-text btn btn-secondary     rounded">65€</button></a> | <a href="https://buy.stripe.com/dR67uV8wY9BefEA6oA" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">20€</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |
 
 Wenn Sie mehr Wörter benötigen, wählen Sie einfach ein Vielfaches von 1.000 Wörtern. Wenn Sie z.B. 5.000 Wörter benötigen, wählen Sie "5" als Menge.
 
@@ -124,6 +124,6 @@ Wenn Sie mehr Wörter benötigen, wählen Sie einfach ein Vielfaches von 1.000 W
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung darüber, wie EasySEO für Sie arbeiten kann</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung darüber, wie EasySEO für Sie arbeiten kann</button></a>
 </center>
 <hr>

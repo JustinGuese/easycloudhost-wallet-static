@@ -27,7 +27,7 @@ Additionally, you might have created an application which handled the load of so
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation on EasyScale</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation on EasyScale</button></a>
 </center>
 <hr>
 
@@ -95,7 +95,7 @@ Our usual workflow looks like this:
 7. Switch to **horizontal autoscalable Databases** to reduce costs and improve speed 
 
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation of how we can scale your application</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation of how we can scale your application</button></a>
 </center>
 <hr>
 
@@ -127,6 +127,6 @@ Let's get started right away with our packages. Book a package and we will conta
 
 
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation of how we can scale your application</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation of how we can scale your application</button></a>
 </center>
 <hr>

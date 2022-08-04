@@ -11,8 +11,8 @@ contact:
 
 contactInfo:
   - title: "Still Have Questions?"
-    content: "[Shoot us a message](/contact) <br>
-    or book a [free 15-minute consultation](/contact) <br>
+    content: "[Shoot us a message](https://shop.easycloudhost.de/contact/) <br>
+    or book a [free 15-minute consultation](https://shop.easycloudhost.de/contact/) <br>
     US: [+1 (650) 382 0775](tel:0016503820775) <br>
     DE: [+49 160 1136770](tel:00491601136770) "
 

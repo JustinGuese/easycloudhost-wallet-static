@@ -37,7 +37,7 @@
       </div>
       {{with site.Params.subscription }}
       {{if .enable }}
-      <div class="col-lg-4 col-md-12 newsletter-form">
+      <!-- <div class="col-lg-4 col-md-12 newsletter-form">
         <div style="background-color: #F4F4F4; padding: 35px;">
           <h5 class="mb-4 text-primary font-secondary">{{i18n `subscribe`}}</h5>
 
@@ -57,7 +57,20 @@
 
           <p class="mb-0">{{.description | markdownify}}</p>
         </div>
-        </div>
+        </div> -->
+        <div class="col-lg-4 col-md-12 newsletter-form">
+          <div style="background-color: #F4F4F4; padding: 35px;">
+            <h5 class="mb-4 text-primary font-secondary">{{i18n `subscribe`}}</h5>
+            <div class="pe-0 pe-xl-5">
+              <form action="https://shop.easycloudhost.de/?na=s" method="post">
+                <input type="hidden" name="nr" value="minimal">
+                <input type="hidden" name="nlang" value="">
+                <input class="tnp-email" type="email" required="" name="ne" value="" placeholder="Email"><input class="tnp-submit" type="submit" value="Subscribe">
+                <div class="tnp-field tnp-privacy-field">
+                  <label><input type="checkbox" name="ny" required="" class="tnp-privacy">&nbsp;By continuing, you accept the privacy policy</label></div></form></div>
+              </div>
+            </div>
+          </div>
       {{ end }}
       {{ end }}
     </div>

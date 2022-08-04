@@ -25,7 +25,7 @@ You just want an S3 like storage solution, but hosted in Germany/Europe? Or an a
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation on EasyStore</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation on EasyStore</button></a>
 </center>
 <hr>
 
@@ -92,7 +92,7 @@ And on top of that EasyStore is giving you:
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation on EasyStore</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation on EasyStore</button></a>
 </center>
 <hr>
 
@@ -117,8 +117,8 @@ Our secure and simple GUI solution
 | Uptime guarantee |  &#x274C; | 95% | 95% | 99% |
 | Storage per User | 5 GB | 50 GB | 100 GB | unlimited | 
 | Free Trial | 14 days |  &#x274C; |  &#x274C; |  &#x274C; | 
-| Monthly payment | <a href="https://shop.easycloudhost.de/product/easystore-s3-storage-and-drive-alternative/?attribute_type=Drive+storage+%28NextCloud%29&attribute_package=Starter" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Trial (3.99€/m after)</button></a> | <a href="https://shop.easycloudhost.de/product/easystore-s3-storage-and-drive-alternative/?attribute_type=Drive+storage+%28NextCloud%29&attribute_package=Plus" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easystore-s3-storage-and-drive-alternative/?attribute_type=Drive+storage+%28NextCloud%29&attribute_package=Teams" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">19.99€/m</button></a> |  <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
-| Yearly price -33% | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |<a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |<a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |<a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |
+| Monthly payment | <a href="https://shop.easycloudhost.de/product/easystore-s3-storage-and-drive-alternative/?attribute_type=Drive+storage+%28NextCloud%29&attribute_package=Starter" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Trial (3.99€/m after)</button></a> | <a href="https://shop.easycloudhost.de/product/easystore-s3-storage-and-drive-alternative/?attribute_type=Drive+storage+%28NextCloud%29&attribute_package=Plus" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easystore-s3-storage-and-drive-alternative/?attribute_type=Drive+storage+%28NextCloud%29&attribute_package=Teams" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">19.99€/m</button></a> |  <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
+| Yearly price -33% | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |<a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |<a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |<a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |
  
 **We can offer Backups and everything for smaller packages as well, choose "custom" to get an individual offer**
 
@@ -128,7 +128,7 @@ Our secure and simple GUI solution
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Demo to see EasyStore in action!</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Demo to see EasyStore in action!</button></a>
 </center>
 <hr>
 
@@ -151,8 +151,8 @@ Our secure and simple S3 compatible solution
 | Uptime guarantee |  &#x274C; | 95% | 95% | 99% |
 | Storage per User | 1 GB | 10 GB | 50 GB | unlimited | 
 | Free Trial | 14 days |  &#x274C; |  &#x274C; |  &#x274C; | 
-| Monthly payment | <a href="https://shop.easycloudhost.de/product/easystore-s3-storage-and-drive-alternative/?attribute_type=S3-compatible+storage+%28MinIO%29&attribute_package=Starter" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">3.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easystore-s3-storage-and-drive-alternative/?attribute_type=S3-compatible+storage+%28MinIO%29&attribute_package=Plus" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easystore-s3-storage-and-drive-alternative/?attribute_type=S3-compatible+storage+%28MinIO%29&attribute_package=Teams" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">39.99€/m</button></a> |  <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
-| Yearly price -33% | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |<a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |<a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |<a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |
+| Monthly payment | <a href="https://shop.easycloudhost.de/product/easystore-s3-storage-and-drive-alternative/?attribute_type=S3-compatible+storage+%28MinIO%29&attribute_package=Starter" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">3.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easystore-s3-storage-and-drive-alternative/?attribute_type=S3-compatible+storage+%28MinIO%29&attribute_package=Plus" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easystore-s3-storage-and-drive-alternative/?attribute_type=S3-compatible+storage+%28MinIO%29&attribute_package=Teams" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">39.99€/m</button></a> |  <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
+| Yearly price -33% | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |<a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |<a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |<a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Contact us</button></a> |
  
 **We can offer Backups and everything for smaller packages as well, choose "custom" to get an individual offer**
 
@@ -161,6 +161,6 @@ Our secure and simple S3 compatible solution
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Demo to see EasyStore in action!</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Demo to see EasyStore in action!</button></a>
 </center>
 <hr>

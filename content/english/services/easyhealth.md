@@ -36,7 +36,7 @@ What do I need to pay attention at? Can I just let someone else do it and not wo
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation on EasyHealth</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation on EasyHealth</button></a>
 </center>
 <hr>
 
@@ -126,7 +126,7 @@ Even though there are complex sections, they can be basically summarized for bot
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute assessment on the status of your compliance</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute assessment on the status of your compliance</button></a>
 </center>
 <hr>
 
@@ -134,11 +134,11 @@ Even though there are complex sections, they can be basically summarized for bot
 
 
 {{< collapse "Assessment of the status quo" >}}
-We can consult you to get a "status quo" report on what you are already implementing, and where you have areas of improvement. <a href="/contact" target="_blank">Book a free 15-minute consultation</a> to find out more.
+We can consult you to get a "status quo" report on what you are already implementing, and where you have areas of improvement. <a href="https://shop.easycloudhost.de/contact/" target="_blank">Book a free 15-minute consultation</a> to find out more.
 {{< /collapse >}}
 
 {{< collapse "Compliant Hosting" >}}
-With our Hosting services both in the US and Germany, we are offering compliant hosting outside of public cloud providers, providing you a secure and isolated "private cloud". Check out <a href="/services/easyhost/" target="_blank">EasyHost</a> to learn more, or <a href="/contact" target="_blank">book a free 15-minute consultation</a>. 
+With our Hosting services both in the US and Germany, we are offering compliant hosting outside of public cloud providers, providing you a secure and isolated "private cloud". Check out <a href="/services/easyhost/" target="_blank">EasyHost</a> to learn more, or <a href="https://shop.easycloudhost.de/contact/" target="_blank">book a free 15-minute consultation</a>. 
 {{< /collapse >}}
 
 {{< collapse "Managed compliant Kubernetes" >}}
@@ -146,15 +146,15 @@ You are already well experienced in Kubernetes, but are looking for someone to o
 {{< /collapse >}}
 
 {{< collapse "Managed compliant Databases" >}}
-We are offering compliant and secure Postgres (SQL) and MongoDB (NoSQL) databases. Check out <a href="/services/easydb/" target="_blank">EasyDB</a> to learn more, or <a href="/contact" target="_blank">contact us for other databases that you need to have managed</a>.
+We are offering compliant and secure Postgres (SQL) and MongoDB (NoSQL) databases. Check out <a href="/services/easydb/" target="_blank">EasyDB</a> to learn more, or <a href="https://shop.easycloudhost.de/contact/" target="_blank">contact us for other databases that you need to have managed</a>.
 {{< /collapse >}}
 
 {{< collapse "Webapplication programming" >}}
-We can create Microservices, Websites and full applications using state-of-the-art tools, all compliant to German or US compliance laws.  <a href="/contact" target="_blank">Book a free 15-minute session to discuss your plans</a>.
+We can create Microservices, Websites and full applications using state-of-the-art tools, all compliant to German or US compliance laws.  <a href="https://shop.easycloudhost.de/contact/" target="_blank">Book a free 15-minute session to discuss your plans</a>.
 {{< /collapse >}}
 
 {{< collapse "Secure & compliant data archival" >}}
-You are just looking for a safe way to archive or store your medical data? Check out <a href="/services/easystore/" target="_blank">EasyStore</a> to learn more, or <a href="/contact" target="_blank">contact us to discuss your plans</a>.
+You are just looking for a safe way to archive or store your medical data? Check out <a href="/services/easystore/" target="_blank">EasyStore</a> to learn more, or <a href="https://shop.easycloudhost.de/contact/" target="_blank">contact us to discuss your plans</a>.
 {{< /collapse >}}
 
 
@@ -162,6 +162,6 @@ You are just looking for a safe way to archive or store your medical data? Check
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us now to discuss your challenges with healthcare data</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us now to discuss your challenges with healthcare data</button></a>
 </center>
 <hr>

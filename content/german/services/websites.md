@@ -27,7 +27,7 @@ Bereiten Ihnen Ihre Webseiten und Anwendungen Kopfschmerzen? Ständig stürzen s
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung</button></a>
 </center>
 <hr>
 
@@ -176,7 +176,7 @@ Wenn Sie eine Website mit uns erstellen möchten, können Sie eine der folgenden
 | Text Erstellung (Wörter) | 1.000 | 10.000 | 30.000 | unlimited | 
 | SEO |  &#x274C; |  &#x274C; |  &#x2705; |  &#x2705; | 
 | Google/FB/Ad-Setup |  &#x274C; |  &#x274C; |  &#x2705; |  &#x2705; | 
-| **Einmaliger Preis** | <a href="https://buy.stripe.com/bIYaH7fZq4gU6409AG" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">249,-€</button></a> | <a href="https://buy.stripe.com/dR602t5kMeVy2RO14b" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">1.299,-€</button></a> | <a href="https://buy.stripe.com/8wMeXn00s5kY2ROaEN" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">4.999,-€</button></a> | <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
+| **Einmaliger Preis** | <a href="https://buy.stripe.com/bIYaH7fZq4gU6409AG" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">249,-€</button></a> | <a href="https://buy.stripe.com/dR602t5kMeVy2RO14b" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">1.299,-€</button></a> | <a href="https://buy.stripe.com/8wMeXn00s5kY2ROaEN" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">4.999,-€</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
 
 **Die Preise werden an der Kasse automatisch in Ihre Landeswährung umgerechnet**
 
@@ -187,12 +187,12 @@ Wenn Sie eine Website mit uns erstellen möchten, können Sie eine der folgenden
 {{< /notice >}}
 
 {{< notice "info" >}}
-  [3] Migrieren Sie Ihre bestehende Domain oder kaufen Sie eine bei uns ab 19,99€/Jahr. [Kontakt](/contact/)
+  [3] Migrieren Sie Ihre bestehende Domain oder kaufen Sie eine bei uns ab 19,99€/Jahr. [Kontakt](https://shop.easycloudhost.dehttps://shop.easycloudhost.de/contact//)
 {{< /notice >}}
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung </button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung </button></a>
 </center>
 <hr>
 
@@ -216,7 +216,7 @@ Wenn Sie eine Website mit uns erstellen möchten, können Sie eine der folgenden
 | Text Erstellung (Wörter) | 1.000 | 10.000 | 30.000 | unlimited | 
 | SEO |  &#x274C; |  &#x274C; |  &#x2705; |  &#x2705; | 
 | Google/FB/Ad-Setup |  &#x274C; |  &#x274C; |  &#x2705; |  &#x2705; | 
-| **Einmaliger Preis** | <a href="https://buy.stripe.com/5kAbLbbJa3cQcso3cm" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">499,-€</button></a> | <a href="https://buy.stripe.com/5kA9D3dRi14Ibok4gr" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">2.999,-€</button></a> | <a href="https://buy.stripe.com/9AQ3eF6oQaFi4ZW28g" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">9.999,-€</button></a> | <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
+| **Einmaliger Preis** | <a href="https://buy.stripe.com/5kAbLbbJa3cQcso3cm" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">499,-€</button></a> | <a href="https://buy.stripe.com/5kA9D3dRi14Ibok4gr" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">2.999,-€</button></a> | <a href="https://buy.stripe.com/9AQ3eF6oQaFi4ZW28g" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">9.999,-€</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
 | + Monatlicher Preis | 19.99€ | 49.99€ | 99.99€ | |
 
 **Die Preise werden an der Kasse automatisch in Ihre Landeswährung umgerechnet**
@@ -228,11 +228,11 @@ Wenn Sie eine Website mit uns erstellen möchten, können Sie eine der folgenden
 {{< /notice >}}
 
 {{< notice "info" >}}
-  [3] Migrieren Sie Ihre bestehende Domain oder kaufen Sie eine bei uns ab 19,99€/Jahr. [Kontakt](/contact/)
+  [3] Migrieren Sie Ihre bestehende Domain oder kaufen Sie eine bei uns ab 19,99€/Jahr. [Kontakt](https://shop.easycloudhost.dehttps://shop.easycloudhost.de/contact//)
 {{< /notice >}}
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung </button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung </button></a>
 </center>
 <hr>

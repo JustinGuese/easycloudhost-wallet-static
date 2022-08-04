@@ -36,7 +36,7 @@ Worauf muss ich achten? Kann ich es einfach jemand anderem überlassen und mich 
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyHealth</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyHealth</button></a>
 </center>
 <hr>
 
@@ -126,7 +126,7 @@ Auch wenn es komplexe Abschnitte gibt, können sie im Grunde für beide wie folg
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Bewertung des Stands der Einhaltung der Vorschriften</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Bewertung des Stands der Einhaltung der Vorschriften</button></a>
 </center>
 <hr>
 
@@ -134,11 +134,11 @@ Auch wenn es komplexe Abschnitte gibt, können sie im Grunde für beide wie folg
 
 
 {{< collapse "Bewertung des Status quo" >}}
-Wir können Sie beraten, um einen "Status quo"-Bericht darüber zu erhalten, was Sie bereits umsetzen und wo Sie Verbesserungsmöglichkeiten haben. <a href="/contact" target="_blank">Buchen Sie eine kostenlose 15-minütige Beratung</a> um mehr zu erfahren.
+Wir können Sie beraten, um einen "Status quo"-Bericht darüber zu erhalten, was Sie bereits umsetzen und wo Sie Verbesserungsmöglichkeiten haben. <a href="https://shop.easycloudhost.de/contact/" target="_blank">Buchen Sie eine kostenlose 15-minütige Beratung</a> um mehr zu erfahren.
 {{< /collapse >}}
 
 {{< collapse "Konformes Hosting" >}}
-Mit unseren Hosting-Services sowohl in den USA als auch in Deutschland bieten wir konformes Hosting außerhalb von Public Cloud-Anbietern und stellen Ihnen eine sichere und isolierte "Private Cloud" zur Verfügung. Werfen Sie einen Blick auf <a href="/de/services/easyhost/" target="_blank">EasyHost</a> um mehr zu erfahren, oder <a href="/contact" target="_blank">Buchen Sie eine kostenlose 15-minütige Beratung</a>. 
+Mit unseren Hosting-Services sowohl in den USA als auch in Deutschland bieten wir konformes Hosting außerhalb von Public Cloud-Anbietern und stellen Ihnen eine sichere und isolierte "Private Cloud" zur Verfügung. Werfen Sie einen Blick auf <a href="/de/services/easyhost/" target="_blank">EasyHost</a> um mehr zu erfahren, oder <a href="https://shop.easycloudhost.de/contact/" target="_blank">Buchen Sie eine kostenlose 15-minütige Beratung</a>. 
 {{< /collapse >}}
 
 {{< collapse "Verwaltetes Kubernetes" >}}
@@ -146,15 +146,15 @@ Sie haben bereits Erfahrung mit Kubernetes, suchen aber jemanden, der eine siche
 {{< /collapse >}}
 
 {{< collapse "Verwaltete Datenbanken" >}}
-Wir bieten konforme und sichere Postgres (SQL) und MongoDB (NoSQL) Datenbanken an. Werfen Sie einen Blickauf <a href="/de/services/easydb/" target="_blank">EasyDB</a> um mehr zu erfahren, oder <a href="/contact" target="_blank">Kontaktieren Sie uns für andere Datenbanken, die Sie verwalten lassen möchten</a>.
+Wir bieten konforme und sichere Postgres (SQL) und MongoDB (NoSQL) Datenbanken an. Werfen Sie einen Blickauf <a href="/de/services/easydb/" target="_blank">EasyDB</a> um mehr zu erfahren, oder <a href="https://shop.easycloudhost.de/contact/" target="_blank">Kontaktieren Sie uns für andere Datenbanken, die Sie verwalten lassen möchten</a>.
 {{< /collapse >}}
 
 {{< collapse "Programmierung von Webanwendungen" >}}
-Wir können Microservices, Websites und vollständige Anwendungen mit modernsten Werkzeugen erstellen, die alle den deutschen oder US-amerikanischen Compliance-Gesetzen entsprechen.  <a href="/contact" target="_blank">Buchen Sie eine kostenlose 15-minütige Sitzung, um Ihre Pläne zu besprechen</a>.
+Wir können Microservices, Websites und vollständige Anwendungen mit modernsten Werkzeugen erstellen, die alle den deutschen oder US-amerikanischen Compliance-Gesetzen entsprechen.  <a href="https://shop.easycloudhost.de/contact/" target="_blank">Buchen Sie eine kostenlose 15-minütige Sitzung, um Ihre Pläne zu besprechen</a>.
 {{< /collapse >}}
 
 {{< collapse "Sichere und gesetzeskonforme Datenarchivierung" >}}
-Sie suchen einfach eine sichere Möglichkeit, Ihre medizinischen Daten zu archivieren oder zu speichern? Werfen Sie einen Blick auf <a href="/de/services/easystore/" target="_blank">EasyStore</a> um mehr zu erfahren, oder  <a href="/contact" target="_blank">Buchen Sie eine kostenlose 15-minütige Sitzung, um Ihre Pläne zu besprechen</a>.
+Sie suchen einfach eine sichere Möglichkeit, Ihre medizinischen Daten zu archivieren oder zu speichern? Werfen Sie einen Blick auf <a href="/de/services/easystore/" target="_blank">EasyStore</a> um mehr zu erfahren, oder  <a href="https://shop.easycloudhost.de/contact/" target="_blank">Buchen Sie eine kostenlose 15-minütige Sitzung, um Ihre Pläne zu besprechen</a>.
 {{< /collapse >}}
 
 
@@ -162,6 +162,6 @@ Sie suchen einfach eine sichere Möglichkeit, Ihre medizinischen Daten zu archiv
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Nehmen Sie jetzt Kontakt mit uns auf, um Ihre Herausforderungen im Bereich der Gesundheitsdaten zu besprechen</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Nehmen Sie jetzt Kontakt mit uns auf, um Ihre Herausforderungen im Bereich der Gesundheitsdaten zu besprechen</button></a>
 </center>
 <hr>

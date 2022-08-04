@@ -25,7 +25,7 @@ Sie wollen einfach nur eine S3-ähnliche Speicherlösung, aber gehostet in Deuts
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyStore</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyStore</button></a>
 </center>
 <hr>
 
@@ -92,7 +92,7 @@ Und obendrein bietet Ihnen EasyStore:
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyStore</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyStore</button></a>
 </center>
 <hr>
 
@@ -118,8 +118,8 @@ Unsere sichere und einfache GUI-Lösung
 | Uptime Garantie |  &#x274C; | 95% | 95% | 99% |
 | Storage per User | 5 GB | 50 GB | 100 GB | unlimited | 
 | Free Trial | 14 days |  &#x274C; |  &#x274C; |  &#x274C; | 
-| Monatliche Zahlung | <a href="https://buy.stripe.com/9AQ5mNaF6cNq9gcbJf" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Trial (3.99€/m after)</button></a> | <a href="https://buy.stripe.com/6oEdTjdRieVy0JG4gO" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9.99€/m</button></a> | <a href="https://buy.stripe.com/8wMdTjfZq7t64ZW8x5" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">19.99€/m</button></a> |  <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
-| Jährliche Zahlung -33% | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |<a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |<a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |<a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |
+| Monatliche Zahlung | <a href="https://buy.stripe.com/9AQ5mNaF6cNq9gcbJf" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free Trial (3.99€/m after)</button></a> | <a href="https://buy.stripe.com/6oEdTjdRieVy0JG4gO" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9.99€/m</button></a> | <a href="https://buy.stripe.com/8wMdTjfZq7t64ZW8x5" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">19.99€/m</button></a> |  <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
+| Jährliche Zahlung -33% | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |<a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |<a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |<a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |
  
 **Wir können Backups und alles auch für kleinere Pakete anbieten, wählen Sie "custom" um ein individuelles Angebot zu erhalten**
 
@@ -129,7 +129,7 @@ Unsere sichere und einfache GUI-Lösung
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose Demo, um EasyStore in Aktion zu sehen!</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose Demo, um EasyStore in Aktion zu sehen!</button></a>
 </center>
 <hr>
 
@@ -153,8 +153,8 @@ Our secure and simple S3 compatible solution
 | Uptime Garantie |  &#x274C; | 95% | 95% | 99% |
 | Storage per User | 1 GB | 10 GB | 50 GB | unlimited | 
 | Free Trial | 14 days |  &#x274C; |  &#x274C; |  &#x274C; | 
-| Monatliche Zahlung | <a href="https://buy.stripe.com/8wM7uV5kM6p2dws28I" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">3.99€/m</button></a> | <a href="https://buy.stripe.com/14k02taF66p2gIEcNn" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9.99€/m</button></a> | <a href="https://buy.stripe.com/8wM02teVm3cQ0JG6p1" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">39.99€/m</button></a> |  <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
-| Jährliche Zahlung -33% | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |<a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |<a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |<a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |
+| Monatliche Zahlung | <a href="https://buy.stripe.com/8wM7uV5kM6p2dws28I" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">3.99€/m</button></a> | <a href="https://buy.stripe.com/14k02taF66p2gIEcNn" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9.99€/m</button></a> | <a href="https://buy.stripe.com/8wM02teVm3cQ0JG6p1" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">39.99€/m</button></a> |  <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
+| Jährliche Zahlung -33% | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |<a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |<a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |<a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |
  
 **Wir können Backups und alles auch für kleinere Pakete anbieten, wählen Sie "custom" um ein individuelles Angebot zu erhalten**
 
@@ -163,6 +163,6 @@ Our secure and simple S3 compatible solution
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose Demo, um EasyStore in Aktion zu sehen!</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose Demo, um EasyStore in Aktion zu sehen!</button></a>
 </center>
 <hr>

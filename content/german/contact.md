@@ -11,8 +11,8 @@ contact:
 
 contactInfo:
   - title: "Haben Sie noch Fragen?"
-    content: "[Schreiben Sie uns eine Nachricht](/contact) <br>
-    oder buchen Sie eine [gratis 15-minütige Beratung](/contact) <br>
+    content: "[Schreiben Sie uns eine Nachricht](https://shop.easycloudhost.de/contact/) <br>
+    oder buchen Sie eine [gratis 15-minütige Beratung](https://shop.easycloudhost.de/contact/) <br>
     DE: [+49 160 1136770](tel:00491601136770) <br>
     US: [+1 (650) 382 0775](tel:0016503820775) "
 

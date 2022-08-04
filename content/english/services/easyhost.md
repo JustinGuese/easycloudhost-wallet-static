@@ -29,7 +29,7 @@ Are your websites and apps giving you a headache? Crashing constantly, being slo
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Free 15-min consultation on how EasyHost can work for you</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Free 15-min consultation on how EasyHost can work for you</button></a>
 </center>
 <hr>
 
@@ -126,7 +126,7 @@ Of course not. You can still use a CMS (content management system) like WordPres
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Free 15-min consultation on how EasyHost can work for you</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Free 15-min consultation on how EasyHost can work for you</button></a>
 </center>
 <hr>
 
@@ -158,6 +158,6 @@ No. As EasyHost is up to a 1000x lighter on the server you will save a lot of mo
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Free 15-min consultation on how EasyHost can work for you</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Free 15-min consultation on how EasyHost can work for you</button></a>
 </center>
 <hr>

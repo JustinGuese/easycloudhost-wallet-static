@@ -136,7 +136,7 @@ hasChildren = true
   
 [[main]]
 name = "Contact"
-url = "contact/"
+url = "https://shop.easycloudhost.de/contact/"
 weight = 8
 
 

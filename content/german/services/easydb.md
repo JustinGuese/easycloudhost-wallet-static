@@ -25,7 +25,7 @@ Sie wollen einfach nur, dass Ihre Datenbanken laufen, ohne sich um Skalierung, V
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyDB</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyDB</button></a>
 </center>
 <hr>
 
@@ -62,7 +62,7 @@ Und darüber hinaus bietet Ihnen EasyDB:
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyDB</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyDB</button></a>
 </center>
 <hr>
 
@@ -89,7 +89,7 @@ Preise für MongoDB und Postgresql
 | Nr nodes | 1 | 1 | 3 | 3 | 5 | 10 | custom |
 | vCPU total | 1 | 3 | 9 | 15 | 30 | 300 | custom |
 | RAM GB total | 1 | 3 | 9 | 20 | 40 | 400 | custom |
-| Monatliche Bezahlung | <a href="https://buy.stripe.com/6oEeXn7sU28M9gcdRi" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">12.99€/m</button></a> | <a href="https://buy.stripe.com/6oEdTj7sU4gU9gccNf" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">29.99€/m</button></a> | <a href="https://buy.stripe.com/dR65mN4gI14I8c814y" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">99.99€/m</button></a> | <a href="hhttps://buy.stripe.com/7sI02t28A4gUdws6oT" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">199.99€/m</button></a> | <a href="https://buy.stripe.com/3csbLb6oQ4gU1NK14A" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">4,999€/m</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
+| Monatliche Bezahlung | <a href="https://buy.stripe.com/6oEeXn7sU28M9gcdRi" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">12.99€/m</button></a> | <a href="https://buy.stripe.com/6oEdTj7sU4gU9gccNf" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">29.99€/m</button></a> | <a href="https://buy.stripe.com/dR65mN4gI14I8c814y" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">99.99€/m</button></a> | <a href="hhttps://buy.stripe.com/7sI02t28A4gUdws6oT" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">199.99€/m</button></a> | <a href="https://buy.stripe.com/3csbLb6oQ4gU1NK14A" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">4,999€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
 | Vergleichspreis [4] | 73$/m + nodes = 103$/m | 153$/m | 243$/m  | 893$/m | 21.000$/m | custom |
  
 **Wir können Backups und alles auch für kleinere Pakete anbieten, wählen Sie "custom" um ein individuelles Angebot zu erhalten**
@@ -97,7 +97,7 @@ Preise für MongoDB und Postgresql
 **Preise werden beim Checkout automatisch in Ihre lokale Währung umgerechnet**
 </div>
 
-<!-- | **Yearly payment -33%** | <a href="https://buy.stripe.com/14k16x8wYfZC9gccN4" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9€/m</button></a> | <a href="https://buy.stripe.com/7sIbLbbJa14IcsoaEY" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">19€/m</button></a> | <a href="https://buy.stripe.com/9AQ3eF3cE3cQbokeVg" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">55.75€/m</button></a> | <a href="https://buy.stripe.com/bIY3eF8wYcNq4ZW6oN" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">104.20€/m</button></a> | <a href="https://buy.stripe.com/28o7uV6oQcNqakg5kL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">2,100€/m</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> | -->
+<!-- | **Yearly payment -33%** | <a href="https://buy.stripe.com/14k16x8wYfZC9gccN4" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9€/m</button></a> | <a href="https://buy.stripe.com/7sIbLbbJa14IcsoaEY" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">19€/m</button></a> | <a href="https://buy.stripe.com/9AQ3eF3cE3cQbokeVg" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">55.75€/m</button></a> | <a href="https://buy.stripe.com/bIY3eF8wYcNq4ZW6oN" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">104.20€/m</button></a> | <a href="https://buy.stripe.com/28o7uV6oQcNqakg5kL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">2,100€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> | -->
 
 {{< notice "info" >}}
   [2] 10 GB Minimum, 10 TB Maximum pro einzelnem Volume
@@ -110,6 +110,6 @@ Preise für MongoDB und Postgresql
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyDB</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung zu EasyDB</button></a>
 </center>
 <hr>

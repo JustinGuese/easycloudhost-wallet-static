@@ -9,4 +9,4 @@ date: 2020-03-11T15:40:24+06:00
 
 We are offering services ranging from fully abstracting, like EasyFAAS, to more hands-on, like EasyKube (managed Kubernetes).
 
-If you are unsure what service you should choose, [contact us](/contact) for a free 15-minute consultation!
+If you are unsure what service you should choose, [contact us](https://shop.easycloudhost.de/contact/) for a free 15-minute consultation!

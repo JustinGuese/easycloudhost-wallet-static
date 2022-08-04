@@ -34,10 +34,10 @@ Having a broad knowledge of Cloud, Data and DevOp technologies, we will be able 
 - [Portfolio](https://datafortress.cloud/project/)
 - [Hourly Rates](/pricing) 
 
-Book a [free 15-minute consultation](/contact) to get an individual offer.
+Book a [free 15-minute consultation](https://shop.easycloudhost.de/contact/) to get an individual offer.
 
 <hr>
 <center>
-    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation</button></a>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation</button></a>
 </center>
 <hr>

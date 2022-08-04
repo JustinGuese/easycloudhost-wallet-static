@@ -24,7 +24,7 @@ sections:
   path: exampleSite/content/english/faq.md
   label: FAQ (en)
 - type: document
-  path: exampleSite/content/english/contact.md
+  path: exampleSite/content/englishhttps://shop.easycloudhost.de/contact/.md
   label: Contact (en)
 - type: document
   path: exampleSite/content/english/legal.md
@@ -47,7 +47,7 @@ sections:
   path: exampleSite/content/spanish/faq.md
   label: FAQ (es)
 - type: document
-  path: exampleSite/content/spanish/contact.md
+  path: exampleSite/content/spanishhttps://shop.easycloudhost.de/contact/.md
   label: Contact (es)
 - type: document
   path: exampleSite/content/spanish/legal.md

@@ -117,7 +117,7 @@
     <li>You are rather looking for an <strong>S3 compatible object storage</strong>? Check out <a href="/easyservices/easystore/" target="_blank">"EasyStore S3"</a>.</li>
     <li>Are you looking for a way to host your own data driven applications? Our managed Kubernetes <a href="/easyservices/easykube/" target="_blank">"EasyKube"</a> or hosting in general <a href="/easyservices/easyhost/" target="_blank">"EasyHost"</a> might be something for you.</li>
     <br>
-    Looking for something else? <a href="/contact" target="_blank">Book a free 15-minute consultation</a> to find out more.'
+    Looking for something else? <a href="https://shop.easycloudhost.de/contact/" target="_blank">Book a free 15-minute consultation</a> to find out more.'
 
 
 - id: computing
@@ -128,7 +128,7 @@
         <li>Our managed Kubernetes <strong><a href="/easyservices/easykube/" target="_blank">"EasyKube"</a></strong> helps you to get up and running with Kubernetes in seconds, with domain based routing and persistence by default.</li>
         <li>Are you looking for an individual hosting setup? <strong><a href="/easyservices/easyhost/" target="_blank">"EasyHost"</a></strong> might be something for you.</li>
         <br>
-        Looking for something else? <a href="/contact" target="_blank">Book a free 15-minute consultation</a> to find out more.'
+        Looking for something else? <a href="https://shop.easycloudhost.de/contact/" target="_blank">Book a free 15-minute consultation</a> to find out more.'
 
 - id: websites
   translation: Websites
@@ -136,7 +136,7 @@
   translate: '<li>Are you looking for a way to <strong>simply host your websites</strong> in a compliant way? <a href="/easyservices/easyhost/" target="_blank">"EasyHost"</a> might be something for you.</li>
         <li>You want to create or adapt a website such that it is faster and converts more? Our static <a href="/services/websites/" target="_blank">"Websites"</a> will help you with this.</li>
         <br>
-        Looking for something else? <a href="/contact" target="_blank">Book a free 15-minute consultation</a> to find out more.'
+        Looking for something else? <a href="https://shop.easycloudhost.de/contact/" target="_blank">Book a free 15-minute consultation</a> to find out more.'
 
 - id: data
   translation: Data
@@ -144,7 +144,7 @@
   translation: '<p>Data Engineering is in our blood. If you are looking for a way to host your machine learning models in a secure and compliant way, then we are you perfect partner.</p>
         <p>You have a lot of data and want to gain new insights? We will be able to create ETL (extract-transform-load) pipelines, host and store unlimited data, create models from it and create visualizations and recommendations for your business.</p>
         <br>
-        <a href="/contact" target="_blank">Book a free 15-minute consultation</a> to find out more.'
+        <a href="https://shop.easycloudhost.de/contact/" target="_blank">Book a free 15-minute consultation</a> to find out more.'
 
 - id: consult
   translation: Consulting & Development
@@ -158,4 +158,4 @@
         <li>Cloud</li>
         <li>Strategies and Business Decisions</li>
         <br>
-        <a href="/contact" target="_blank">Book a free 15-minute consultation</a> to get an individual offer.'
+        <a href="https://shop.easycloudhost.de/contact/" target="_blank">Book a free 15-minute consultation</a> to get an individual offer.'
