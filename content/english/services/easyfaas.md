@@ -29,7 +29,7 @@ What if there could be a way to **"just run code" instead of worrying about serv
 
 <hr>
 <center>
-    <a href="https://app.easyfaas.de/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Get Started for free!</button></a>
+    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Get Started for free!</button></a>
 </center>
 <hr>
 
@@ -85,7 +85,7 @@ EasyFAAS reduces time to market, and let's your programmers focus on what it imp
 
 {{< notice "tip" >}}
 Did you know that you can run one function per month for free? 
-[Claim your free function](https://app.easyfaas.de/)
+[Claim your free function](/contact)
 {{< /notice >}}
 
 To achieve this EasyFAAS currently supports two functions:
@@ -167,7 +167,7 @@ Example applications for the managed MongoDB are:
 
 ### 1.1 The main dashboard
 
-Head over to [https://app.easyfaas.de/](https://app.easyfaas.de/) and register or login.
+Head over to [/contact](/contact) and register or login.
 
 <center>
     <img src="/images/tutorial/easyfaas/maindashboard.png" style="width:50%" alt="Easyfaas main dashboard">
@@ -467,5 +467,5 @@ No hidden fees, no nothing. In future updates we will even include **autoscaling
 Billing is done via Stripe, a secure and reliable payment provider. 
 
 <center>
-    <a href="https://app.easyfaas.de/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Get Started for free!</button></a>
+    <a href="/contact" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Get Started for free!</button></a>
 </center>

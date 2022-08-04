@@ -94,6 +94,37 @@ Our usual workflow looks like this:
 6. Using a Framework like **FAAS** or **Kubernetes** to distribute the load to multiple servers and support autoscaling
 7. Switch to **horizontal autoscalable Databases** to reduce costs and improve speed 
 
+<center>
+    <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation of how we can scale your application</button></a>
+</center>
+<hr>
+
+## I just want to get started!
+
+Let's get started right away with our packages. Book a package and we will contact you immediately with the next steps.
+
+**The application is still slow? Get your money back (7 days after completion)!**
+
+<div style="overflow-x:auto;">
+
+| <div style="width:70px">Package</div> | <div style="width:90px">EasyScale S</div> | EasyScale M | EasyScale L | EasyScale XL |
+| --- | --- | --- | --- |--- |
+| Analysis Consultation | 1 hour | 3 hours | 1 day | 1 week |
+| Best for... | Single Page websites | Small blogs, small company websites | Online-Shops, Bigger Blogs and company websites | Complex architectures that require a backend |
+| Conversion | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
+| High-Tech Hosting | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
+| Price [1] | <a href="https://shop.easycloudhost.de/product/easyscale-speed-up-your-applications/?attribute_package=S" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">99€</button></a> | <a href="https://shop.easycloudhost.de/product/easyscale-speed-up-your-applications/?attribute_package=M" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">699€</button></a> | <a href="https://shop.easycloudhost.de/product/easyscale-speed-up-your-applications/?attribute_package=L" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">5,999€</button></a> | <a href="https://shop.easycloudhost.de/product/easyscale-speed-up-your-applications/?attribute_package=XL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">24,999€</button></a>
+
+
+**Not sure how much effort it will be? Contact us beforehand**
+
+**Prices are automatically converted to your local currency on checkout**
+</div>
+
+{{< notice "tip" >}}
+  [1] we reserve the right to adjust the package according to the real effort. Should the effort be greater than you expect, we will refund your package and suggest the suitable package, after which you can decide whether to buy it or not.
+{{< /notice >}}
+
 
 <center>
     <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Free 15-minute consultation of how we can scale your application</button></a>

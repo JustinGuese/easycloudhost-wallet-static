@@ -81,7 +81,7 @@ Pricing for both MongoDB and Postgresql
 | Free subdomain of easycloudhost.de | &#x2705; | &#x2705; | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
 | Multi AZ | &#x274C; | &#x274C; | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
 | Custom Domain | &#x274C; | &#x274C; | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| Shared cluster | &#x274C; | &#x274C; | &#x274C; | &#x2705; | &#x2705; | &#x2705; |
+| Dedicated Machines | &#x274C; | &#x274C; | &#x274C; | &#x2705; | &#x2705; | &#x2705; |
 | Velero Backups | &#x274C; | &#x274C; | &#x274C; | &#x2705; | &#x2705; | &#x2705; |
 | Horizontal Autoscaling | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x2705; |
 | Support | extra | extra | 2h/month | 5h/month | &#x2705; | &#x2705; |
@@ -90,7 +90,7 @@ Pricing for both MongoDB and Postgresql
 | Nr nodes | 1 | 1 | 3 | 3 | 5 | 10 | custom |
 | vCPU total | 1 | 3 | 9 | 15 | 30 | 300 | custom |
 | RAM GB total | 1 | 3 | 9 | 20 | 40 | 400 | custom |
-| Monthly payment | <a href="https://buy.stripe.com/6oEeXn7sU28M9gcdRi" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">12.99€/m</button></a> | <a href="https://buy.stripe.com/6oEdTj7sU4gU9gccNf" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">29.99€/m</button></a> | <a href="https://buy.stripe.com/dR65mN4gI14I8c814y" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">99.99€/m</button></a> | <a href="hhttps://buy.stripe.com/7sI02t28A4gUdws6oT" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">199.99€/m</button></a> | <a href="https://buy.stripe.com/3csbLb6oQ4gU1NK14A" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">4,999€/m</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
+| Monthly payment | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=XS" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">12.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=S" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">29.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=M" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">99.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=L" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">199.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easydb-managed-database/?attribute_size=XL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">4,999€/m</button></a> | <a href="/contact" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Contact us</button></a> |
 | Comparable price [4] | 73$/m + nodes = 103$/m | 153$/m | 243$/m  | 893$/m | 21.000$/m | custom |
  
 **We can offer Backups and everything for smaller packages as well, choose "custom" to get an individual offer**
