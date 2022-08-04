@@ -98,3 +98,36 @@ Unser üblicher Arbeitsablauf sieht wie folgt aus:
     <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung, wie wir Ihre Anwendung skalieren können</button></a>
 </center>
 <hr>
+
+
+## Ich will einfach nur loslegen!
+
+Mit unseren Paketen können Sie sofort loslegen. Buchen Sie ein Paket und wir kontaktieren Sie umgehend für die nächsten Schritte.
+
+**Die Anwendung ist immer noch langsam? Erhalten Sie Ihr Geld zurück (7 Tage nach Fertigstellung)!**
+
+<div style="overflow-x:auto;">
+
+| <div style="width:70px">Paket</div> | <div style="width:90px">EasyScale S</div> | EasyScale M | EasyScale L | EasyScale XL |
+| --- | --- | --- | --- |--- |
+| Analyse & Besprechung | 1 Stunde | 3 Stunden | 1 Tag | 1 Woche |
+| Best for... | Seiten mit einer Seite | Kleine Blogs, kleine Unternehmenswebsites | Online-Shops, Bigger Blogs und Firmenwebseiten | Komplexe Architekturen, die ein Backend erfordern |
+| Umwandlung | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
+| High-Tech Hosting | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
+| Preis [1] | <a href="https://shop.easycloudhost.de/product/easyscale-speed-up-your-applications/?attribute_package=S" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">99€</button></a> | <a href="https://shop.easycloudhost.de/product/easyscale-speed-up-your-applications/?attribute_package=M" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">699€</button></a> | <a href="https://shop.easycloudhost.de/product/easyscale-speed-up-your-applications/?attribute_package=L" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">5,999€</button></a> | <a href="https://shop.easycloudhost.de/product/easyscale-speed-up-your-applications/?attribute_package=XL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">24,999€</button></a>
+
+
+**Nicht sicher, wie viel Aufwand es sein wird? Kontaktieren Sie uns vorher**
+
+**Preise werden an der Kasse automatisch in Ihre Landeswährung umgerechnet**
+</div>
+
+{{< notice "tip" >}}
+  [1] Wir behalten uns das Recht vor, das Paket entsprechend dem tatsächlichen Aufwand anzupassen. Sollte der Aufwand größer sein, als Sie erwarten, erstatten wir Ihnen Ihr Paket zurück und schlagen Ihnen ein passendes Paket vor, nach dem Sie entscheiden können, ob Sie es kaufen möchten oder nicht.
+{{< /notice >}}
+
+
+<center>
+    <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kostenlose 15-minütige Beratung, wie wir Ihre Anwendung skalieren können</button></a>
+</center>
+<hr>

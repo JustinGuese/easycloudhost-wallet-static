@@ -154,44 +154,6 @@ Jetzt, wo wir wissen, dass unsere Websites superschnell laden und unsere Einnahm
 
 Nein. Da EasyHost den Server bis zu 1000x entlastet, werden Sie eine Menge Geld für das Hosting sparen. 
 
-<div style="overflow-x:auto;">
-
-| <div style="width:150px">Version</div>     | EasyHost Static           | EasyHost CMS  | EasyHost Shop | Custom |
-| ------------- |:-------------:| -----:| -----:| -----:|
-| Hosting | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| Schnelle Geschwindigkeit | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| SSL/HTTPS (letsencrypt) | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| Eigene Domain möglich | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| Hosten Sie Ihr eigenes HTML | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| 1 TB traffic / m | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
-| CMS [1] | &#x274C; | &#x2705; | &#x2705; | &#x2705; |
-| Umwandlung inkludiert [2] | &#x274C; | &#x274C; | &#x274C; | &#x2705; |
-| Eigene Domain inkludiert [3] | &#x274C; | &#x274C; | &#x274C; | &#x2705; |
-| Uptime Garantie | 99.9% | 99.5% | 99% | &#x2705; |
-| Support | extra | extra | extra | &#x2705; |
-| Preise: US Hosting | <a href="https://buy.stripe.com/3csdTjcNe28M9gc7sx" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">0.99€/m</button></a> | <a href="https://buy.stripe.com/28obLbaF66p2bokdQT" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">4.99€/m</button></a> | <a href="https://buy.stripe.com/6oE6qR6oQ7t69gceUV" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">19.99€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
-| Preise: DE Hosting | <a href="https://buy.stripe.com/cN29D3aF63cQbok7sw" target="_blank"><button type="submit" class="input-group-text btn btn-secondary rounded">2.99€/m</button></a> | <a href="https://buy.stripe.com/aEU2aB00s7t6bok4gi" target="_blank"><button type="submit" class="input-group-text btn btn-secondary     rounded">9.99€/m</button></a> | <a href="https://buy.stripe.com/7sI3eF14w14I2ROfYY" target="_blank"><button type="submit" class="input-group-text btn btn-secondary rounded">39.99€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="submit" class="input-group-text btn btn-secondary rounded">Kontakt</button></a> |
-| Vergleichbare Preise [4] | 20$/m + traffic | 40$/m + traffic | 80$/m + traffic | |
-
-
-**Die Preise werden an der Kasse automatisch in Ihre Landeswährung umgerechnet**
-</div>
-
-{{< notice "info" >}}
-  [1] Ein CMS ermöglicht es Ihnen, den Inhalt in einem einfachen Web-Interface selbst zu bearbeiten (Content-Management-System)
-{{< /notice >}}
-
-{{< notice "info" >}}
-  [2] Wenn Sie Ihre Website nicht selbst konvertieren möchten, können wir Ihnen dabei helfen. [Kontakt](https://shop.easycloudhost.dehttps://shop.easycloudhost.de/contact//)
-{{< /notice >}}
-
-{{< notice "info" >}}
-  [3] Migrieren Sie Ihre bestehende Domain oder kaufen Sie eine bei uns ab 19,99€/Jahr. [Kontaktieren Sie uns](https://shop.easycloudhost.dehttps://shop.easycloudhost.de/contact//)
-{{< /notice >}}
-
-{{< notice "info" >}}
-  [4] Vergleichbare Geschwindigkeit mit einer AWS Lightsail WordPress-Instanz, ohne Traffic. Kann nicht wirklich verglichen werden, da die Technologien völlig unterschiedlich sind, aber um eine Schätzung zu erhalten.
-{{< /notice >}}
 
 <hr>
 <center>

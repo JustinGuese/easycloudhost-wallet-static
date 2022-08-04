@@ -37,6 +37,27 @@ Suchen Sie nach einer Möglichkeit, Ihre Daten und Anwendungen in einer sicheren
 4. [EasyKube in AWS/Google Cloud/Azure](/de/services/easykube/#und-was-ist-wenn-ich-in-der-öffentlichen-cloud-hosten-möchte)
 5. [Preise](/de/services/easykube/#easykube-preisübersicht)
 
+## Was ist der Vorteil von EasyKube gegenüber anderen Kubernetes-Produkten?
+
+<div style="overflow-x:auto;">
+
+| <div style="width:150px">Feature</div> | Standard Kubernetes | AWS/Azure Kubernetes | EasyKube |
+| --- | --- | --- | --- |
+| Standard K8s | &#x2705; | &#x2705; | &#x2705; |
+| Load Balancers | &#x274C; | &#x2705; | &#x2705; |
+| Einfaches Server Scaling | &#x274C; | &#x2705; | &#x2705; |
+| Direkt nutzbare Volumes | &#x274C; |  &#x2705; | &#x2705; |
+| Domain basiertes Routing | &#x274C; |  &#x274C; | &#x2705; |
+| Bausteine [1] | &#x274C; |  &#x274C; | &#x2705; |
+| DSGVO & HIPAA compliance | &#x274C; |  &#x274C; | &#x2705; |
+| "Plug & Play" | &#x274C; |  &#x274C; | &#x2705; |
+
+</div>
+
+{{< notice "info" >}}
+  [1] Bausteine sind gebrauchsfertige Bereitstellungsvorlagen mit Autoscaling, Sicherheit und Persistenz
+{{< /notice >}}
+
 ## Die Vorteile einer eigenen privaten Cloud
 
 Warum sollten Sie also Ihre eigene Cloud erstellen, anstatt öffentliche Cloud-Anbieter zu nutzen?
@@ -262,6 +283,48 @@ Das ist natürlich auch möglich. Nehmen Sie einfach [Kontakt](https://shop.easy
 
 ## EasyKube Preisübersicht
 
+### 1. Abrechnung nach Aufwand
+
+{{< notice "info" >}}
+  Um Widerstandsfähigkeit zu erreichen, benötigen Sie **mindestens 3** Server, aber 1 Server funktioniert auch, um Dinge auszuprobieren.
+{{< /notice >}}
+
+<div style="overflow-x:auto;">
+
+| <div style="width:150px">Feature</div>   | Node XS   | Node S    | Node M  | Node L |
+| ------------- |:-------------:| -----:| -----:| -----:| 
+| Gratis subdomain auf easycloudhost.de | &#x2705; | &#x2705; | &#x2705; | &#x2705; |
+| Geteilter Server | &#x2705; | &#x274C; | &#x274C; | &#x274C; |
+| 14 Tage Gratis |  &#x2705; | &#x274C; | &#x274C; | &#x274C; |
+| vCPU | 1 | 3 | 4 | 8 | 16 | 
+| RAM GB | 1 | 4 | 8 | 16 | 32 |
+| Monatliche Zahlung | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=pay-as-you-go&attribute_size=XS" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=pay-as-you-go&attribute_size=S" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">21.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=pay-as-you-go&attribute_size=M" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">42.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=pay-as-you-go&attribute_size=L" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">79.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=pay-as-you-go&attribute_size=XL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">179.99€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
+| Vergleichspreis [4] | 73$/m + server = 103$/m | 153$/m | 243$/m  | 893$/m | 21.000$/m | individuell |
+ 
+**Die Preise werden an der Kasse automatisch in Ihre Landeswährung umgerechnet**
+
+</div>
+
+{{< notice "info" >}}
+  [4] https://calculator.aws/#/addService/EKS
+{{< /notice >}}
+
+#### Zusätzliche Kosten
+
+| Feature | Preis |
+| --- | --- |
+| Volumes [2] | 1.50€/m per 10GB |
+| Load Balancer | 19.99€/m per Stück |
+| Traffic | unbegrenzt |
+
+{{< notice "info" >}}
+  [2] 10 GB Minimum, 10 TB Maximum pro einzelnem Volume. Berechnet in 10-GB-Schritten
+{{< /notice >}}
+
+
+### 2. Paket-Preise
+
+
 
 <div style="overflow-x:auto;">
 
@@ -284,8 +347,8 @@ Das ist natürlich auch möglich. Nehmen Sie einfach [Kontakt](https://shop.easy
 | Nr nodes | 1 | 1 | 3 | 5 | 10 | 100 | custom |
 | vCPU total | 1 | 3 | 9 | 15 | 30 | 300 | custom |
 | RAM GB total | 1 | 3 | 9 | 20 | 40 | 400 | custom |
-| Monatliche Bezahlung | <a href="https://buy.stripe.com/7sI7uVbJa4gU784dR9" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">12.99€/m</button></a> | <a href="https://buy.stripe.com/6oEdTj8wY8xacsodRb" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">29.99€/m</button></a> | <a href="https://buy.stripe.com/cN28yZ00sdRu784dRd" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">79.99€/m</button></a> | <a href="https://buy.stripe.com/fZe3eF14w14IgIEfZm" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">149€/m</button></a> | <a href="https://buy.stripe.com/5kA02t8wY6p2gIE8wW" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">2,999€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
-| **Jährliche Bezahlung -33%** | <a href="https://buy.stripe.com/14k16x8wYfZC9gccN4" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9€/m</button></a> | <a href="https://buy.stripe.com/7sIbLbbJa14IcsoaEY" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">19€/m</button></a> | <a href="https://buy.stripe.com/9AQ3eF3cE3cQbokeVg" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">55.75€/m</button></a> | <a href="https://buy.stripe.com/bIY3eF8wYcNq4ZW6oN" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">104.20€/m</button></a> | <a href="https://buy.stripe.com/28o7uV6oQcNqakg5kL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">2,100€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
+| Monatliche Bezahlung | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=package+pricing&attribute_size=XS" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">12.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=package+pricing&attribute_size=S" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">29.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=package+pricing&attribute_size=M" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">79.99€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=package+pricing&attribute_size=L" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">149€/m</button></a> | <a href="https://shop.easycloudhost.de/product/easykube/?attribute_pricing-model=package+pricing&attribute_size=XL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">2,999€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> |
+<!-- | **Jährliche Bezahlung -33%** | <a href="https://buy.stripe.com/14k16x8wYfZC9gccN4" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">9€/m</button></a> | <a href="https://buy.stripe.com/7sIbLbbJa14IcsoaEY" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">19€/m</button></a> | <a href="https://buy.stripe.com/9AQ3eF3cE3cQbokeVg" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">55.75€/m</button></a> | <a href="https://buy.stripe.com/bIY3eF8wYcNq4ZW6oN" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">104.20€/m</button></a> | <a href="https://buy.stripe.com/28o7uV6oQcNqakg5kL" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">2,100€/m</button></a> | <a href="https://shop.easycloudhost.de/contact/" target="_blank"><button type="link" class="input-group-text btn btn-primary rounded">Kontakt</button></a> | -->
 | Comparable price [4] | 73$/m + nodes = 103$/m | 153$/m | 243$/m  | 893$/m | 21.000$/m | custom |
  
 **Wir können Backups und alles auch für kleinere Pakete anbieten, wählen Sie "custom" um ein individuelles Angebot zu erhalten**
