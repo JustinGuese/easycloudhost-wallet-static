@@ -3,7 +3,7 @@ title: "Die 7 größten Irrtümer und Mythen über die Sicherheit von Kubernetes
 date: 2022-03-14T15:40:24+06:00
 # post thumb
 images:
-  - "cover de  security misconceptions kubernets - DE.png"
+  - "images/blog/cover de  security misconceptions kubernets - DE.png"
 #author
 author: "Justin Güse"
 # description
