@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on EasyCloudHost - Simple, Secure and Scalable cloud services</title><link>https://easycloudhost.de/categories/</link><description>Recent content in Categories on EasyCloudHost - Simple, Secure and Scalable cloud services</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright By [DataFortress.cloud](https://datafortress.cloud/)</copyright><lastBuildDate>Mon, 14 Mar 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>EasyKube</title><link>https://easycloudhost.de/categories/easykube/</link><pubDate>Mon, 14 Mar 2022 15:40:24 +0600</pubDate><guid>https://easycloudhost.de/categories/easykube/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on EasyCloudHost - Simple, Secure and Scalable cloud services</title>
+    <link>https://easycloudhost.de/categories/</link>
+    <description>Recent content in Categories on EasyCloudHost - Simple, Secure and Scalable cloud services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright By [DataFortress.cloud](https://datafortress.cloud/)</copyright>
+    <lastBuildDate>Mon, 14 Mar 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EasyKube</title>
+      <link>https://easycloudhost.de/categories/easykube/</link>
+      <pubDate>Mon, 14 Mar 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/categories/easykube/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

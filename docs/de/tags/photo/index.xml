@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photo on EasyCloudHost - Simple, Secure and Scalable cloud services</title>
+    <link>https://easycloudhost.de/de/tags/photo/</link>
+    <description>Recent content in photo on EasyCloudHost - Simple, Secure and Scalable cloud services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Copyright By [DataFortress.cloud](https://datafortress.cloud/)</copyright>
+    <lastBuildDate>Sun, 15 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/de/tags/photo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elementos que puede utilizar para crear una nueva publicación en esta plantilla.</title>
+      <link>https://easycloudhost.de/de/blog/elements/</link>
+      <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/de/blog/elements/</guid>
+      <description>Heading example Aquí hay un ejemplo de coberturas. Puede usar este encabezado siguiendo las reglas de markdownify.</description>
+    </item>
+    
+  </channel>
+</rss>
