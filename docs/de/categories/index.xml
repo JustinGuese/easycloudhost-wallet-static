@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Copyright By [DataFortress.cloud](https://datafortress.cloud/)</copyright>
-    <lastBuildDate>Mon, 14 Mar 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academy</title>
+      <link>https://easycloudhost.de/de/categories/academy/</link>
+      <pubDate>Tue, 09 Aug 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/de/categories/academy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://easycloudhost.de/de/categories/kubernetes/</link>
+      <pubDate>Tue, 09 Aug 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/de/categories/kubernetes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>EasyKube</title>
       <link>https://easycloudhost.de/de/categories/easykube/</link>
