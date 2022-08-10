@@ -54,6 +54,48 @@
                 href="https://easycloudhost.de/categories/"
                 />
   </url><url>
+    <loc>https://easycloudhost.de/categories/easyhost/</loc>
+    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/categories/easyhost/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/categories/easyhost/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/hosting/</loc>
+    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/hosting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/hosting/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/categories/hosting/</loc>
+    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/categories/hosting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/categories/hosting/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/blog/website-hosting-solutions-compared/</loc>
+    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+  </url><url>
     <loc>https://easycloudhost.de/tags/how-does-kubernetes-work/</loc>
     <lastmod>2022-08-09T15:40:24+06:00</lastmod>
   </url><url>
@@ -109,6 +151,32 @@
                 href="https://easycloudhost.de/tags/master-node/"
                 />
   </url><url>
+    <loc>https://easycloudhost.de/tags/online-shop/</loc>
+    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/online-shop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/online-shop/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/shopify/</loc>
+    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/shopify/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/shopify/"
+                />
+  </url><url>
     <loc>https://easycloudhost.de/tags/</loc>
     <lastmod>2022-08-09T15:40:24+06:00</lastmod>
     <xhtml:link
@@ -122,8 +190,34 @@
                 href="https://easycloudhost.de/tags/"
                 />
   </url><url>
+    <loc>https://easycloudhost.de/tags/websites/</loc>
+    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/websites/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/websites/"
+                />
+  </url><url>
     <loc>https://easycloudhost.de/blog/what-is-kubernetes/</loc>
     <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://easycloudhost.de/tags/wordpress/</loc>
+    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/wordpress/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/wordpress/"
+                />
   </url><url>
     <loc>https://easycloudhost.de/tags/worker-node/</loc>
     <lastmod>2022-08-09T15:40:24+06:00</lastmod>
