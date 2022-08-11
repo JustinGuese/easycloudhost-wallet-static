@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monitoring on EasyCloudHost - Simple, Secure and Scalable cloud services</title>
+    <link>https://easycloudhost.de/tags/monitoring/</link>
+    <description>Recent content in Monitoring on EasyCloudHost - Simple, Secure and Scalable cloud services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright By [DataFortress.cloud](https://datafortress.cloud/)</copyright>
+    <lastBuildDate>Tue, 09 Aug 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/tags/monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Kubernetes Monitoring?</title>
+      <link>https://easycloudhost.de/blog/what-is-kubernetes-monitoring/</link>
+      <pubDate>Tue, 09 Aug 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/blog/what-is-kubernetes-monitoring/</guid>
+      <description>Kubernetes monitoring is the process of tracking the state of your Kubernetes deployment and identifying any issues that may arise.</description>
+    </item>
+    
+  </channel>
+</rss>

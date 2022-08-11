@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright By [DataFortress.cloud](https://datafortress.cloud/)</copyright>
-    <lastBuildDate>Mon, 14 Mar 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Aug 2022 11:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What are Kubernetes secrets?</title>
+      <link>https://easycloudhost.de/blog/what-are-kubernetes-secrets/</link>
+      <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/blog/what-are-kubernetes-secrets/</guid>
+      <description>Kubernetes Secrets are a way of protecting data that is needed by applications running in a Kubernetes cluster, but which should not be exposed to the outside world.</description>
+    </item>
+    
     <item>
       <title>Top 7 Kubernetes Security Misconceptions and Myths</title>
       <link>https://easycloudhost.de/blog/post-1/</link>

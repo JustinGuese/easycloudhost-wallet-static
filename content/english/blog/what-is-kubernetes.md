@@ -57,6 +57,10 @@ Kubernetes can be run on a variety of platforms, including public clouds, privat
 And finally, Kubernetes can also be installed on Bare metal servers or virtual machines running Linux or Windows. In most cases, it is best to use a managed Kubernetes service from a public cloud provider, but the flexibility to run Kubernetes anywhere can be useful in certain circumstances.
 
 
+{{< notice "tip" >}}
+  Did you know, that you can get all this plus many more time-saving additions by using our [EasyKube managed Kubernetes solution? Check it out now.](/services/easykube)
+{{< /notice >}}
+
 ## **What Is A Kubernetes Cluster?**
 
 A Kubernetes cluster is a set of virtual machines (nodes) that run containerized applications. Kubernetes automates the installation, growth, and administration of containerized applications. For simple management and discovery, it divides the containers that make up an application into logical parts.
@@ -93,6 +97,8 @@ Once Minikube is up and running, you can start using Kubernetes. The first thing
 Now that your deployment is created, you can access your application by creating a service. A service is an abstraction that defines a set of pods and exposes them to clients. You can create a service by using the kubectl expose command. This command will take care of creating the necessary load balancer and routing rules for your service.
 
 With that, you're now ready to start using Kubernetes!
+
+[Next Article: What is Kubernetes Monitoring, and how will it help me reduce downtime and spot errors?](/blog/what-is-kubernetes-monitoring/)
 
 #### Are you interested in a fully managed Kubernetes?
 

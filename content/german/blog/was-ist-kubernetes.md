@@ -65,7 +65,7 @@ Darüber hinaus gibt es einen API-Server, der die API offenlegt und den Benutzer
 
 {{< notice "tip" >}}
   Unser vollständig verwaltetes Kubernetes spart Ihnen eine Menge Zeit bei der Einrichtung von Volumes, Netzwerken und mehr, ab 12,99€/Monat, alles in Deutschland gehostet!
-[Besuchen Sie EasyKube](/de/services/easykube)
+[Schauen Sie auf unserer EasyKube Seite vorbei!](/de/services/easykube)
 {{< /notice >}}
 
 ### Was ist "Enterprise Kubernetes"?
@@ -90,10 +90,12 @@ Jetzt, da Ihr Deployment erstellt ist, können Sie auf Ihre Anwendung zugreifen,
 
 Damit sind Sie nun bereit, Kubernetes zu nutzen!
 
+[Nächster Artikel: Was ist Kubernetes-Monitoring, und wie wird es mir helfen downtimes zu verringern und Fehler zu finden?](/de/blog/was-ist-kubernetes-monitoring/)
+
 #### Sind Sie an einem vollständig verwalteten Kubernetes interessiert?
 
 {{< notice "tip" >}}
   Unser vollständig verwaltetes Kubernetes spart Ihnen eine Menge Zeit bei der Einrichtung von Volumes, Netzwerken und mehr, ab 12,99€/Monat, alles in Deutschland gehostet!
-[Besuchen Sie EasyKube](/de/services/easykube)
+[Schauen Sie auf unserer EasyKube Seite vorbei!](/de/services/easykube)
 {{< /notice >}}
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HR on EasyCloudHost - Simple, Secure and Scalable cloud services</title>
+    <link>https://easycloudhost.de/de/tags/hr/</link>
+    <description>Recent content in HR on EasyCloudHost - Simple, Secure and Scalable cloud services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Copyright By [DataFortress.cloud](https://datafortress.cloud/)</copyright>
+    <lastBuildDate>Thu, 11 Aug 2022 11:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/de/tags/hr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Was ist Kubernetes-Unterstützung? Wie biete ich internen Support an?</title>
+      <link>https://easycloudhost.de/de/blog/was-ist-kubernetes-support/</link>
+      <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/de/blog/was-ist-kubernetes-support/</guid>
+      <description>Kubernetes ist eine schnell wachsende Container-Orchestrierungsplattform, die in den letzten Jahren stark an Bedeutung gewonnen hat.</description>
+    </item>
+    
+  </channel>
+</rss>

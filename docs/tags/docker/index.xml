@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on EasyCloudHost - Simple, Secure and Scalable cloud services</title>
+    <link>https://easycloudhost.de/tags/docker/</link>
+    <description>Recent content in Docker on EasyCloudHost - Simple, Secure and Scalable cloud services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright By [DataFortress.cloud](https://datafortress.cloud/)</copyright>
+    <lastBuildDate>Thu, 11 Aug 2022 11:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What are Kubernetes pods?</title>
+      <link>https://easycloudhost.de/blog/what-are-kubernetes-pods/</link>
+      <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/blog/what-are-kubernetes-pods/</guid>
+      <description>A Kubernetes pod is a collection of one or more containers (such as Docker containers) that share network and storage resources and adhere to a set of operating rules.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://easycloudhost.de/</loc>
-    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://easycloudhost.de/categories/academy/</loc>
-    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://easycloudhost.de/blog/</loc>
-    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://easycloudhost.de/categories/</loc>
-    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -53,6 +53,245 @@
                 hreflang="en"
                 href="https://easycloudhost.de/categories/"
                 />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/docker/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/docker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/docker/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/enterprise/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/enterprise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/enterprise/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/enterprise-kubernetes/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/enterprise-kubernetes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/enterprise-kubernetes/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/hr/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/hr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/hr/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/k8s/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/k8s/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/k8s/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/kubernetes/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/kubernetes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/kubernetes/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/categories/kubernetes/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/categories/kubernetes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/categories/kubernetes/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/kubernetes-management/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/kubernetes-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/kubernetes-management/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/kubernetes-pods/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/kubernetes-pods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/kubernetes-pods/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/kubernetes-secrets/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/kubernetes-secrets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/kubernetes-secrets/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/kubernetes-support/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/kubernetes-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/kubernetes-support/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/management/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://easycloudhost.de/tags/pods/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/pods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/pods/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/secrets/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/secrets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/secrets/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/security/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/security/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/support/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/support/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/tutorial/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/tutorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/tutorial/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/blog/what-are-kubernetes-pods/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://easycloudhost.de/blog/what-are-kubernetes-secrets/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://easycloudhost.de/blog/what-is-enterprise-kubernetes/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://easycloudhost.de/blog/what-is-kubernetes-management/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://easycloudhost.de/blog/what-is-kubernetes-support/</loc>
+    <lastmod>2022-08-11T11:40:24+06:00</lastmod>
   </url><url>
     <loc>https://easycloudhost.de/categories/easyhost/</loc>
     <lastmod>2022-08-09T15:40:24+06:00</lastmod>
@@ -99,43 +338,17 @@
     <loc>https://easycloudhost.de/tags/how-does-kubernetes-work/</loc>
     <lastmod>2022-08-09T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://easycloudhost.de/tags/k8s/</loc>
+    <loc>https://easycloudhost.de/tags/kubernetes-monitoring/</loc>
     <lastmod>2022-08-09T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://easycloudhost.de/de/tags/k8s/"
+                href="https://easycloudhost.de/de/tags/kubernetes-monitoring/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://easycloudhost.de/tags/k8s/"
-                />
-  </url><url>
-    <loc>https://easycloudhost.de/tags/kubernetes/</loc>
-    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://easycloudhost.de/de/tags/kubernetes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://easycloudhost.de/tags/kubernetes/"
-                />
-  </url><url>
-    <loc>https://easycloudhost.de/categories/kubernetes/</loc>
-    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://easycloudhost.de/de/categories/kubernetes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://easycloudhost.de/categories/kubernetes/"
+                href="https://easycloudhost.de/tags/kubernetes-monitoring/"
                 />
   </url><url>
     <loc>https://easycloudhost.de/tags/master-node/</loc>
@@ -149,6 +362,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://easycloudhost.de/tags/master-node/"
+                />
+  </url><url>
+    <loc>https://easycloudhost.de/tags/monitoring/</loc>
+    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easycloudhost.de/de/tags/monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easycloudhost.de/tags/monitoring/"
                 />
   </url><url>
     <loc>https://easycloudhost.de/tags/online-shop/</loc>
@@ -177,19 +403,6 @@
                 href="https://easycloudhost.de/tags/shopify/"
                 />
   </url><url>
-    <loc>https://easycloudhost.de/tags/</loc>
-    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://easycloudhost.de/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://easycloudhost.de/tags/"
-                />
-  </url><url>
     <loc>https://easycloudhost.de/tags/websites/</loc>
     <lastmod>2022-08-09T15:40:24+06:00</lastmod>
     <xhtml:link
@@ -202,6 +415,9 @@
                 hreflang="en"
                 href="https://easycloudhost.de/tags/websites/"
                 />
+  </url><url>
+    <loc>https://easycloudhost.de/blog/what-is-kubernetes-monitoring/</loc>
+    <lastmod>2022-08-09T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://easycloudhost.de/blog/what-is-kubernetes/</loc>
     <lastmod>2022-08-09T15:40:24+06:00</lastmod>
@@ -269,19 +485,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://easycloudhost.de/tags/encryption/"
-                />
-  </url><url>
-    <loc>https://easycloudhost.de/tags/security/</loc>
-    <lastmod>2022-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://easycloudhost.de/de/tags/security/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://easycloudhost.de/tags/security/"
                 />
   </url><url>
     <loc>https://easycloudhost.de/blog/post-1/</loc>

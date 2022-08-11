@@ -7,7 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Copyright By [DataFortress.cloud](https://datafortress.cloud/)</copyright>
-    <lastBuildDate>Tue, 09 Aug 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/de/categories/academy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Aug 2022 11:40:24 +0600</lastBuildDate><atom:link href="https://easycloudhost.de/de/categories/academy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Was ist Enterprise Kubernetes?</title>
+      <link>https://easycloudhost.de/de/blog/was-ist-enterprise-kubernetes/</link>
+      <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/de/blog/was-ist-enterprise-kubernetes/</guid>
+      <description>In der heutigen Geschäftswelt greifen immer mehr Unternehmen auf die Cloud zurück, um ihre Geschäfte abzuwickeln.</description>
+    </item>
+    
+    <item>
+      <title>Was ist Kubernetes-Management?</title>
+      <link>https://easycloudhost.de/de/blog/was-ist-kubernetes-management/</link>
+      <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/de/blog/was-ist-kubernetes-management/</guid>
+      <description>Wenn es um Cloud-basiertes Computing geht, ist die Kubernetes-Verwaltung eines der heißesten Themen da draußen.</description>
+    </item>
+    
+    <item>
+      <title>Was ist Kubernetes-Unterstützung? Wie biete ich internen Support an?</title>
+      <link>https://easycloudhost.de/de/blog/was-ist-kubernetes-support/</link>
+      <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/de/blog/was-ist-kubernetes-support/</guid>
+      <description>Kubernetes ist eine schnell wachsende Container-Orchestrierungsplattform, die in den letzten Jahren stark an Bedeutung gewonnen hat.</description>
+    </item>
+    
+    <item>
+      <title>Was sind Kubernetes pods?</title>
+      <link>https://easycloudhost.de/de/blog/was-sind-kubernetes-pods/</link>
+      <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/de/blog/was-sind-kubernetes-pods/</guid>
+      <description>Ein Kubernetes-Pod ist eine Sammlung von einem oder mehreren Containern (z.</description>
+    </item>
+    
+    <item>
+      <title>Was sind Kubernetes secrets?</title>
+      <link>https://easycloudhost.de/de/blog/was-sind-kubernetes-secrets/</link>
+      <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/de/blog/was-sind-kubernetes-secrets/</guid>
+      <description>Kubernetes Secrets sind eine Möglichkeit, Daten zu schützen, die von Anwendungen in einem Kubernetes-Cluster benötigt werden, aber nicht nach außen dringen sollen.</description>
+    </item>
+    
+    <item>
+      <title>Was ist Kubernetes Monitoring?</title>
+      <link>https://easycloudhost.de/de/blog/was-ist-kubernetes-monitoring/</link>
+      <pubDate>Tue, 09 Aug 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://easycloudhost.de/de/blog/was-ist-kubernetes-monitoring/</guid>
+      <description>Bei der Kubernetes-Überwachung geht es darum, den Zustand Ihrer Kubernetes-Installation zu verfolgen und eventuell auftretende Probleme zu erkennen.</description>
+    </item>
+    
     <item>
       <title>Was ist Kubernetes?</title>
       <link>https://easycloudhost.de/de/blog/was-ist-kubernetes/</link>
