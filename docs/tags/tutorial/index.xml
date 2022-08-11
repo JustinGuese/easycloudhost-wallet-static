@@ -14,7 +14,7 @@
       <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
       
       <guid>https://easycloudhost.de/blog/what-are-kubernetes-pods/</guid>
-      <description>A Kubernetes pod is a collection of one or more containers (such as Docker containers) that share network and storage resources and adhere to a set of operating rules.</description>
+      <description>Our full Kubernetes Tutorial series Get up and running with your Kubernetes knowledge:</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
       
       <guid>https://easycloudhost.de/blog/what-are-kubernetes-secrets/</guid>
-      <description>Kubernetes Secrets are a way of protecting data that is needed by applications running in a Kubernetes cluster, but which should not be exposed to the outside world.</description>
+      <description>Our full Kubernetes Tutorial series Get up and running with your Kubernetes knowledge:</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@
       <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
       
       <guid>https://easycloudhost.de/blog/what-is-enterprise-kubernetes/</guid>
-      <description>In today&amp;rsquo;s business world, more and more companies are turning to the cloud to run their operations.</description>
+      <description>Our full Kubernetes Tutorial series Get up and running with your Kubernetes knowledge:</description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@
       <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
       
       <guid>https://easycloudhost.de/blog/what-is-kubernetes-management/</guid>
-      <description>When it comes to cloud-based computing, Kubernetes management is one of the hottest topics out there.</description>
+      <description>Our full Kubernetes Tutorial series Get up and running with your Kubernetes knowledge:</description>
     </item>
     
     <item>
@@ -50,7 +50,7 @@
       <pubDate>Thu, 11 Aug 2022 11:40:24 +0600</pubDate>
       
       <guid>https://easycloudhost.de/blog/what-is-kubernetes-support/</guid>
-      <description>Kubernetes is a fast-growing container orchestration platform that has gained a lot of traction in the last few years.</description>
+      <description>Our full Kubernetes Tutorial series Get up and running with your Kubernetes knowledge:</description>
     </item>
     
     <item>
@@ -59,7 +59,7 @@
       <pubDate>Tue, 09 Aug 2022 15:40:24 +0600</pubDate>
       
       <guid>https://easycloudhost.de/blog/what-is-kubernetes-monitoring/</guid>
-      <description>Kubernetes monitoring is the process of tracking the state of your Kubernetes deployment and identifying any issues that may arise.</description>
+      <description>Our full Kubernetes Tutorial series Get up and running with your Kubernetes knowledge:</description>
     </item>
     
   </channel>

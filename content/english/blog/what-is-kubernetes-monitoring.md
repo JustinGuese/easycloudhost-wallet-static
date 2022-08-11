@@ -15,6 +15,20 @@ icon: "fas fa-business-time"
 draft: false
 ---
 
+## Our full Kubernetes Tutorial series
+
+Get up and running with your Kubernetes knowledge:
+
+1. [What is Kubernetes?](/blog/what-is-kubernetes/)
+2. [What is Kubernetes Monitoring?](/blog/what-is-kubernetes-monitoring/)
+3. [What is Kubernetes Management?](/blog/what-is-kubernetes-management/)
+4. [What are Kubernetes secrets?](/blog/what-are-kubernetes-secrets/)
+5. [What are Kubernetes pods?](/blog/what-are-kubernetes-pods/)
+6. [What is Kubernetes support?](/blog/what-is-kubernetes-support/)
+7. [What is Enterprise Kubernetes?](/blog/what-is-enterprise-kubernetes/)
+
+---
+
 Kubernetes monitoring is the process of tracking the state of your Kubernetes deployment and identifying any issues that may arise. By monitoring your Kubernetes installation, you can ensure that your applications are running smoothly and efficiently. In this article, we'll provide an overview of Kubernetes monitoring and discuss some of the best practices for keeping your Kubernetes environment healthy.
 
 ## Why Kubernetes Monitoring Is Important

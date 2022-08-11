@@ -14,7 +14,20 @@ tags: ["Kubernetes","Wie funktioniert Kubernetes?", "K8s", "Master Node", "Worke
 icon: "fas fa-business-time"
 draft: false
 ---
-# Was ist Kubernetes?
+
+## Unsere vollständige Kubernetes-Tutorial-Reihe
+
+Machen Sie sich mit Ihrem Kubernetes-Wissen vertraut:
+
+1. [Was ist Kubernetes?](/de/blog/was-ist-kubernetes/)
+2. [Was ist Kubernetes Monitoring?](/de/blog/was-ist-kubernetes-monitoring/)
+3. [Was ist Kubernetes Management?](/de/blog/was-ist-kubernetes-management/)
+4. [Was sind Kubernetes secrets?](/de/blog/was-sind-kubernetes-secrets/)
+5. [Was sind Kubernetes pods?](/de/blog/was-sind-kubernetes-pods/)
+6. [Was ist Kubernetes support?](/de/blog/was-ist-kubernetes-support/)
+7. [Was istEnterprise Kubernetes?](/de/blog/was-ist-enterprise-kubernetes/)
+
+---
 
 Kubernetes ist ein System zur Verwaltung von containerisierten Anwendungen in einem Server-Cluster. Es bietet eine Reihe von Funktionen, die es für groß angelegte Implementierungen gut geeignet machen, darunter:
 

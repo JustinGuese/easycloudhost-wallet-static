@@ -15,6 +15,20 @@ icon: "fas fa-business-time"
 draft: false
 ---
 
+## Our full Kubernetes Tutorial series
+
+Get up and running with your Kubernetes knowledge:
+
+1. [What is Kubernetes?](/blog/what-is-kubernetes/)
+2. [What is Kubernetes Monitoring?](/blog/what-is-kubernetes-monitoring/)
+3. [What is Kubernetes Management?](/blog/what-is-kubernetes-management/)
+4. [What are Kubernetes secrets?](/blog/what-are-kubernetes-secrets/)
+5. [What are Kubernetes pods?](/blog/what-are-kubernetes-pods/)
+6. [What is Kubernetes support?](/blog/what-is-kubernetes-support/)
+7. [What is Enterprise Kubernetes?](/blog/what-is-enterprise-kubernetes/)
+
+---
+
 Kubernetes Secrets are a way of protecting data that is needed by applications running in a Kubernetes cluster, but which should not be exposed to the outside world. They are similar to Docker secrets and can be used to store sensitive information such as passwords, API keys, and SSL certificates. In this post, we will take a look at how Secrets work in [Kubernetes](https://easycloudhost.de/blog/what-is-kubernetes/), and we will see how they can be used to protect our data. We will also see how they can be created and managed using the Kubernetes command-line interface (CLI). Finally, we will take a look at some practical examples of how Secrets can be used in a Kubernetes environment.
 
 ## Why Are Secrets Important?
