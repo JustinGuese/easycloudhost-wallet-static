@@ -95,6 +95,18 @@ url = "/de/faq/"
 
 [[main]]
 weight = 7
+name = "Academy"
+url = "/categories/academy/"
+hasChildren = true
+
+  [[main]]
+  weight = 1
+  parent = "Academy"
+  name = "Kubernetes Tutorial"
+  url = "/de/blog/was-ist-kubernetes/"
+
+[[main]]
+weight = 8
 name = "Seiten"
 hasChildren = true
 
