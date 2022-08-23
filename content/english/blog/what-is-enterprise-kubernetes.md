@@ -98,3 +98,6 @@ Unlike some other Kubernetes distributions, enterprise Kubernetes platforms are 
 {{< notice "tip" >}}
   Did you know, that you can get all this plus many more time-saving additions by using our [EasyKube managed Kubernetes solution? Check it out now.](/services/easykube)
 {{< /notice >}}
+
+
+[Next article: What is Kubernetes Orchestration, and how is it controlling my K8s cluster?](/blog/what-is-kubernetes-orchestration/)

@@ -84,3 +84,6 @@ Im Gegensatz zu einigen anderen Kubernetes-Distributionen sind Enterprise-Kubern
 {{< notice "tip" >}}
   Wussten Sie schon, dass Sie all dies und noch viel mehr zeitsparende Zusatzfunktionen mit unserer [EasyKube verwalteten Kubernetes-Lösung](/de/services/easykube) erhalten?
 {{< /notice >}}
+
+
+[Nächster Artikel: Was ist Kubernetes Orchestrierung, und wie steuert es mein K8s-Cluster?](/de/blog/was-ist-kubernetes-orchestrierung/)
