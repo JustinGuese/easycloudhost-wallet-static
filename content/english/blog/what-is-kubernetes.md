@@ -26,6 +26,28 @@ Get up and running with your Kubernetes knowledge:
 5. [What are Kubernetes pods?](/blog/what-are-kubernetes-pods/)
 6. [What is Kubernetes support?](/blog/what-is-kubernetes-support/)
 7. [What is Enterprise Kubernetes?](/blog/what-is-enterprise-kubernetes/)
+8. [What is Kubernetes Orchestration?](/blog/what-is-kubernetes-orchestration/)
+9. [What is an Kubernetes Ingress?](/blog/what-is-a-kubernetes-ingress/)
+10. [What is a Kubernetes Multi-Clustering?](/blog/what-is-kubernetes-multi-clustering/)
+11. [What is Kubernetes Hybrid Cloud?](/blog/was-ist-kubernetes-multi-cloud-oder-hybrid-cloud/)
+
+Basics
+
+12. [What is a container registry?](/blog/what-is-a-container-registry/)
+13. [What is Docker swarm?](/blog/what-is-docker-swarm/)
+14. [What is Virtualization?](/blog/what-is-virtualization/)
+15. [What is a software-defined data center?](/blog/what-is-a-software-defined-datacenter/)
+8. [What is Kubernetes Orchestration?](/blog/what-is-kubernetes-orchestration/)
+9. [What is an Kubernetes Ingress?](/blog/what-is-a-kubernetes-ingress/)
+10. [What is a Kubernetes Multi-Clustering?](/blog/what-is-kubernetes-multi-clustering/)
+11. [What is Kubernetes Hybrid Cloud?](/blog/was-ist-kubernetes-multi-cloud-oder-hybrid-cloud/)
+
+Basics
+
+12. [What is a container registry?](/blog/what-is-a-container-registry/)
+13. [What is Docker swarm?](/blog/what-is-docker-swarm/)
+14. [What is Virtualization?](/blog/what-is-virtualization/)
+15. [What is a software-defined data center?](/blog/what-is-a-software-defined-datacenter/)
 
 ---
 

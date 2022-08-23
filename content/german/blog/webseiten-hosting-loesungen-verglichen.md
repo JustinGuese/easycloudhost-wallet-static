@@ -15,6 +15,7 @@ icon: "fas fa-business-time"
 draft: false
 ---
 
+
 Wenn es darum geht, einen Online-Shop oder eine Website zu erstellen, stehen Ihnen einige Möglichkeiten zur Verfügung. Die beliebtesten Systeme sind WordPress, Shopify, Magenta oder Shopware. In diesem Blogbeitrag vergleichen wir Shopify und WordPress, die wichtigsten SAAS- und Open-Source-Systeme, mit unserer hauseigenen Lösung [EasyHost](/de/services/websites). Dies wird Ihnen helfen zu entscheiden, welches die beste Option für Sie ist.
 
 WordPress ist ein beliebtes System, das von Millionen von Menschen auf der ganzen Welt genutzt wird. Es handelt sich um ein kostenloses System, das relativ einfach zu bedienen ist. Allerdings erfordert es einige technische Kenntnisse, um Ihren Shop einzurichten. 

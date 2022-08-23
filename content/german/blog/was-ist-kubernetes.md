@@ -25,7 +25,18 @@ Machen Sie sich mit Ihrem Kubernetes-Wissen vertraut:
 4. [Was sind Kubernetes secrets?](/de/blog/was-sind-kubernetes-secrets/)
 5. [Was sind Kubernetes pods?](/de/blog/was-sind-kubernetes-pods/)
 6. [Was ist Kubernetes support?](/de/blog/was-ist-kubernetes-support/)
-7. [Was istEnterprise Kubernetes?](/de/blog/was-ist-enterprise-kubernetes/)
+7. [Was ist Enterprise Kubernetes?](/de/blog/was-ist-enterprise-kubernetes/)
+8. [Was ist Kubernetes Orchestrierung?](/de/blog/was-ist-kubernetes-orchestrierung/)
+9. [Was ist ein Kubernetes Ingress?](/de/blog/was-ist-ein-kubernetes-ingress/)
+10. [Was ist Kubernetes Muti-Clustering?](/de/blog/was-ist-kubernetes-multi-clustering/)
+11. [Was ist eine Kubernetes Hybride Cloud?](/blog/was-ist-kubernetes-multi-cloud-oder-hybrid-cloud/)
+
+Grundlagen
+
+12. [Was ist eine Container Registry?](/de/blog/was-ist-eine-container-registry/)
+13. [Was ist Docker swarm?](/de/blog/was-ist-docker-swarm/)
+14. [Was ist Virtualisierung?](/de/blog/was-ist-virtualisierung/)
+15. [Was ist ein software-definiertes Rechenzentrum?](/de/blog/was-ist-ein-software-definiertes-rechenzentrum/)
 
 ---
 
